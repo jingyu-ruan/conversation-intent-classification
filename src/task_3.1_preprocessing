@@ -1,0 +1,27 @@
+import pandas as pd
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+INPUT_FILE = ROOT / "data" / "processed" / "full_transcripts.csv"
+OUTPUT_FILE = ROOT / "data" / "processed" / "full_transcripts_with_trainee.csv"
+
+def extract_trainee_turns(transcript: str) -> str:
+    if not isinstance(transcript, str):
+        return ""
+    lines = transcript.splitlines()
+    res = []
+    for line in lines:
+        line = line.strip()
+        if line.startswith("TRAINEE:"):
+            res.append(line[len("TRAINEE:"):].strip())
+    return " ".join(res)
+
+df = pd.read_csv(INPUT_FILE)
+
+df['trainee_text'] = df['full_transcript'].apply(extract_trainee_turns)
+
+# save the updated dataframe
+df.to_csv(OUTPUT_FILE, index=False)
+
+print("Save completed:", OUTPUT_FILE)
+print(df[['simulation_id', 'trainee_text']].head(3))
