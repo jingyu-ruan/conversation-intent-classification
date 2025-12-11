@@ -1,0 +1,1098 @@
+simulation_id,full_transcript,reason_gpt,steps_gpt,category_rule,category_gpt,category_tf
+AT&T - Transition to Sales- Assessment for Work from Home Agent,"SYM: Being an AT&T work from home agent is not only rewarding, but also fun helping customers achieve more and realize more value from AT&T. In this simulation you have resolved a customers concern regarding their device, but then have an opportunity to transition to sales. There are 2 different transitions where we want to know what you would do. What would you say in response?
+TRAINEE: Thank you for calling AT&T. I hope we resolved your issue today. Is there anything else I can assist you with?
+SYM: No, I just really needed to reset my data hotspot because it's my backup when the cable goes out.
+SYM: OK.... stop... How would you respond here?
+TRAINEE: Respond here.
+SYM: Thanks for the offer but I can't have my internet backup and my main internet service provider be from the same company, because I start working from home next month and need a reliable backup plan.
+SYM: OK.... stop... How would you respond here?
+TRAINEE: Respond here.
+SYM: This concludes your simulation.",The customer called to reset their data hotspot as a backup for internet outages.,"[""Step 1: Confirm the data hotspot reset is complete and ensure it's functioning properly."", 'Step 2: Offer to discuss alternative backup internet solutions or services that might better suit their needs for working from home.']",other,other,other
+Arise_Carnival CS - Mock Call Assessment (Tollgate),"TRAINEE: Thank you for calling Carnival, my name is [Agent Name]. May I have your name and booking number, please?
+SYM: Hi. My name is Mary, and my booking number is G H 6 0 J 8.
+TRAINEE: Great, Thank you. I will pull that up for you.
+TRAINEE: May I have your pin number please?
+SYM: 4 5 6 5.
+TRAINEE: Thank you for that.
+TRAINEE: I see that you and John are sailing on Carnival Horizon, December 6th, 2025, is that correct?
+SYM: Yes.
+TRAINEE: I see your email address is marytest@email.com, and your mobile number is 555 987-1234. You are currently not signed up for text alerts, would you like it to stay that way?
+SYM: Yes, I do not want text alerts.
+TRAINEE: And Mary, did you want to purchase the Carnival Vacation Protection today?
+SYM: No, thank you.
+TRAINEE: Ok, Mary. How can I help you today?
+SYM: I wanted to purchase the transfers.
+TRAINEE: No problem, Mary let me check a few things for you.
+SYM: Ok.
+TRAINEE: Thank you for your patience, Mary. Do you know what airport you’re flying into?
+SYM: Yes, the Miami International Airport.
+TRAINEE: Ok, great. If you fly into Miami it will be $22.99 one way, or $45.98 round trip, and I do have to tell you the recommended flight time for the pre cruise transfer is no later than 12PM, and the earliest flight for debarkation is no earlier than 12PM. Did you want to purchase for both guests?
+SYM: Yes .
+TRAINEE: Great, I will go ahead and add it for both guests.
+TRAINEE: Mary, may I confirm these changes?
+SYM: Yes, please add them.
+TRAINEE: Thank you, I’ve added the transfers for both guests. Do you have any other questions today, Mary?
+SYM: Yes, I have one more question, can you tell me about the ‘Behind the Fun’ tour ?
+TRAINEE: I’d be more than happy to tell you about that, Mary. One moment while I pull up the information.
+TRAINEE: Ok, Mary, you now have the option to book the ‘Behind the Fun’ tour before your cruise. It includes a limited edition ‘Behind the Fun’ baseball cap that marks you as an honorary team member, complimentary commemorative photos, some Carnival-branded goodies, and light snacks and pastries.
+TRAINEE: Since you'll be sailing on the Carnival Horizon, the tour starts at $130. It runs about 3 to 3¾ hours and gives you an exclusive behind-the-scenes look at the ship. You’ll get to see the bridge, the engine control room, the main galley, staff dining areas, storerooms, the laundry, and more. It’s a rare chance to explore parts of the ship most guests never get to see.
+SYM: Awesome I will go on Carnival.com and book that.
+TRAINEE: That's great, each tour is limited to 16 people so booking in advance is recommended.
+TRAINEE: Mary, do you have any other questions for me today?
+SYM: No, that is all I had for you today.
+TRAINEE: It’s been my pleasure to assist you, Mary. Would you mind if I sent you a survey about my service today?
+SYM: Yes, you can do that.
+TRAINEE: Thank you for calling Carnival, Have a great day!",The customer called to purchase transfers for their cruise and inquire about the 'Behind the Fun' tour.,"['Confirm booking details and verify customer identity.', 'Provide transfer options and pricing, then add transfers for both guests.', ""Explain the 'Behind the Fun' tour details and recommend booking in advance.""]",other,other,other
+Arise_Carnival DS - Sales Inquiries - Booking created ~ BEG,"TRAINEE: Carnival Fun Ships, this is [Agent Name]. May I have your name, please?
+SYM: My name is Alice Test.
+TRAINEE: Hi, Alice. Are you currently booked on one of our Fun Ships or working with a Travel Advisor?
+SYM: No, I’m calling in to see if you can help me plan my cruise.
+TRAINEE: I’ll be happy to get your cruise booked today.
+TRAINEE: May I have your phone number?
+SYM: Sure, it is 305-222-3333.
+TRAINEE: Thank you!
+TRAINEE: What state do you live in?
+SYM: Florida.
+TRAINEE: Thank you.
+TRAINEE: Alice, may I have your email address?
+SYM: Sure! It's alice test@email.com.
+TRAINEE: Thank you! May I have your address?
+SYM: Sure! It's 1 2 3 Maple Street, Miami, Florida, 3 3 1 0 1.
+TRAINEE: Thank you.
+TRAINEE: Have you cruised with Carnival before?
+SYM: No, this is my first cruise.
+TRAINEE: Welcome to Carnival. I’m so glad you chose to sail with us. Are you celebrating anything special?
+SYM: I’m just wanting to plan a fun getaway vacation for just myself and my husband.
+TRAINEE: Fantastic! So, it sounds like you are looking for one cabin for two guests, right?
+SYM: Yes.
+TRAINEE: Would anyone traveling have the need for special accommodations or is pregnant?
+SYM: No.
+TRAINEE: And to make sure I don’t miss any promotions for you, is anyone traveling an employee of an interline company such as a passenger airline, Amtrak, or UPS or FedEx?
+SYM: No.
+TRAINEE: Anyone serve in the U.S. Armed Forces, Canadian National Defense or over the age of 55?
+SYM: No, not yet.
+TRAINEE: Has your husband sailed with Carnival before?
+SYM: No.
+TRAINEE: And you mentioned earlier, you live in Florida, correct?
+SYM: Yes
+TRAINEE: What ship and sail date have you picked out?
+SYM: I’m interested in sailing on the Carnival Breeze sailing April 1, 2027.
+TRAINEE: I’m glad you are calling in to book today, that’s a popular time to travel over spring break. Bear with me a moment as I pull that up.
+TRAINEE: Your cruise will be on the Breeze sailing April 1, 2027, out of the port of Galveston on a 4-day Western Caribbean itinerary. Your boarding time is from 12:30 p.m. to 2:00 p.m. and you will be visiting Cozumel, Mexico with 2 fun days at sea.
+SYM: Yes, that's the one we want.
+TRAINEE: Awesome!
+TRAINEE: Your ship, the Breeze, has 14 passenger decks. It has an adult serenity retreat that is only for guests 21 and older where you can sit back, relax, and smell the sea breeze. It also has a seaside theater where you can watch movies under the stars. There are some great additional food options too, like Guy’s Burger Joint, which has the best burgers.
+SYM: My husband loves burgers. Sounds good!
+TRAINEE: Great!
+TRAINEE: Things included in your cruise are breakfast, lunch, dinner, snacks, ice cream, pizza, comedy shows, and our amazing stage shows. Not included are our spa treatments, alcoholic beverages, carbonated beverages, gratuities, and if you want to try your luck in our casino at sea.
+SYM: This sounds perfect for us.
+TRAINEE: Great! Now, let’s find you the best deal for your cruise.
+TRAINEE: We have a lot of great promotions. I’m seeing the best promotion for you today is our Early Saver Promotion.
+TRAINEE: The Early Saver promotion guarantees you the lowest rate from the day that you book all the way until two business days prior to your sailing. If at any time the rate drops below what you booked at, you can fill out a price protection form online and have the balance adjusted before final payment or get the difference as an onboard credit after final. Keep in mind this promotion does not allow name changes and if you cancel or move your sailing prior to final payment date it’s only $50 per person fee and the rest of the money gets put towards a future cruise credit which you have 12 months to use.
+SYM: Okay.
+TRAINEE: What kind of cabin would you prefer? They're all very spacious. We have an interior cabin with no windows, an Ocean View with a big picture window, a Balcony cabin that gives you both a window and your own private balcony, and our largest option - a Suite, which has even more space and a balcony.
+SYM: We would like to have a Balcony cabin.
+TRAINEE: Great choice! That’s my favorite, too.
+TRAINEE: I’m looking forward to finding you a great balcony.
+TRAINEE: I found a great cabin for you. It’s on our Lido Deck, Deck 10. There are only 4 cabins left that accommodate 2 guests on this deck so I’m glad you called in today. This will put you in the middle of the ship. Let’s look at the details about your cabin.
+TRAINEE: Your cabin has 220 square feet, two twin size beds that will convert to a king for you, and your own private balcony. One of the best things about a balcony is how you can enjoy your morning coffee or a glass of wine at night while you enjoy the sounds, smell, and view of the ocean from your own private balcony.
+SYM: Sounds perfect for us.
+TRAINEE: Awesome, let me get the pricing for your cabin.
+TRAINEE: Your cabin is only an average rate of $829 per person including taxes and fees based upon 2 guests in the cabin. Carnival Vacation Protection is $190 for the cabin, giving you a total of $1848.00.
+TRAINEE: All we need to get started today is a small deposit of $340, which includes activation of your Carnival Vacation Protection. The remaining balance won't be due until your final payment date of 1/16/2027. Would you like to book this with early, late or your-time dining?
+SYM: Let’s book for a late dining.
+TRAINEE: Wonderful!
+TRAINEE: One moment while I grab your cabin.
+TRAINEE: I have the perfect cabin for you, cabin number 10277.
+TRAINEE: After this call, you will receive an email confirmation. Please read the terms and conditions of your email cruise ticket contract, as you are legally bound by the terms.
+SYM: Okay.
+TRAINEE: May I have each name as it appears on their travel documents?
+SYM: Alice Test 05/14/1985 and James Test 9/24/1984.
+TRAINEE: Thank you! Just to confirm, that was Alice Test with date of birth 05/14/1985 and you said it was your husband traveling with you, James Test, with his date of birth 9/24/1984?
+SYM: That is correct.
+TRAINEE: Is everyone traveling a U.S. Citizen and U.S. Resident?
+SYM: Yes, we are.
+TRAINEE: Thank you!
+TRAINEE: And you mentioned earlier you both live in Florida, correct?
+SYM: Correct.
+TRAINEE: Would you like to go ahead and include your prepaid gratuities, or will you be taking care of that onboard?
+SYM: I think I’ll handle that onboard.
+TRAINEE: Okay, thanks!
+TRAINEE: I selected your dinner time as Late Dining as you requested earlier.
+SYM: Great!
+TRAINEE: Please choose a 4-digit pin number that is easy for you to remember for security purposes.
+SYM: How about 2 4 8 7.
+TRAINEE: 2487, got it!
+TRAINEE: And to confirm does anyone traveling have a special need or pregnant?
+SYM: No
+TRAINEE: And you mentioned earlier you were sailing for a fun get away. No special occasions, right?
+SYM: Correct, not this time. This time it is just for fun.
+TRAINEE: Thank you!
+TRAINEE: May I have your email address so we can contact you in case of itinerary changes or voyage delays?​
+SYM: Let’s use my same email earlier for me at alice test @ email.com and james test @ email.com for my husband.​
+TRAINEE: Thank you!
+TRAINEE: May I have an alternate contact telephone number?
+SYM: Sure, my cell phone is 305-222-3333.
+TRAINEE: Thank you! Would you like a text to be sent to your mobile number for all sailing changes and payment reminders?
+SYM: Yes, please.
+TRAINEE: Bear with me a moment as I finish creating your booking.
+SYM: Okay.
+TRAINEE: I’m almost done. I’m just putting some additional notes on your booking.
+TRAINEE: Your booking number is X9SN55. You are sailing on the Breeze doing a 4-day Western Caribbean itinerary. We have you in that amazing balcony cabin, 10277. The total cost of your cruise is $1848 with only your deposit of $340 due today.
+TRAINEE: Are you taking care of this payment now or would you like to hear more about our partner, Flex Pay, where you could book this for as little as $0 down and pay for up to 24 months with affordable rates?
+SYM: I’m going to use my Visa Card.
+TRAINEE: Okay, great!
+TRAINEE: May I have the name of the card holder?
+SYM: It’s my name on the card.​ Alice Test.
+TRAINEE: May I have the expiration date and billing zip code?
+SYM: It is April 2028, and my zip code is 3 3 1 3 3.
+TRAINEE: Thank you, I have April 2028 and zip code of 33133, correct?
+SYM: Yes.
+TRAINEE: Would you like to pay just the deposit of $340 today?
+SYM: Yes, the deposit only.
+TRAINEE: As a courtesy for you, we can go ahead and set up Auto Pay for you interest free and split your final payment amount into equal amounts of $71.81 starting on May 1, 2025. Would you like to go ahead and take advantage of this?
+SYM: Yes, let’s go ahead and set that up.
+TRAINEE: Okay, perfect.
+TRAINEE: Now that I’ve verified the name of the cardholder, expiration date, zip code, and payment amount, I will be placing you into Secure Mode where I will prompt you to enter your credit card number. ​ ​
+TRAINEE: During this time, you will be able to hear me, however, I will not be able to hear you. It is important that when entering your credit card number, you are not using speakerphone or a Bluetooth device. ​
+TRAINEE: After you input your credit card number, Secure Mode will drop, and our call will reconnect, allowing me to hear you again. Then, I can verify payment. Do you have your credit card ready?
+SYM: Yes.
+TRAINEE: Do you have any questions before I place you into Secure Mode?​
+SYM: No.
+TRAINEE: You are now in Secure Mode. Please enter your credit card information.
+TRAINEE: Thank you for your payment of $340.00. Before I submit, are the last few digits 4444?
+SYM: Yes.
+TRAINEE: I see your payment of $340.00 has processed.
+TRAINEE: I am going to send your cabin confirmation now.
+TRAINEE: You are all set. Keep in mind that adding or removing a guest will change the average rate per person. Please refer to your confirmation that I am emailing you now or you can go on the website to carnival.com/bookedguest for your electronic documents, boarding pass, travel docs, and penalty information.
+SYM: Okay.
+TRAINEE: Proper travel documentation is due upon embarkation and Carnival highly recommends a passport.
+TRAINEE: Is there anything else I can help you with today?
+SYM: That’s all.
+TRAINEE: Super! As a reminder, you will be receiving an email survey about my service today. I appreciate your feedback.
+SYM: Sure, you really made this whole process very easy.
+TRAINEE: Thank you for choosing Carnival and you have a Funtastic day!",The customer called to plan and book a cruise for a fun getaway vacation for herself and her husband.,"['Collect customer information and preferences', 'Select cruise details (ship, date, itinerary, cabin type)', 'Explain promotions and pricing', 'Process payment and set up auto-pay', 'Confirm booking and send email confirmation']",other,other,other
+Arise_Disney Resorts Reservations - Booking Multiple Rooms Package Reservation ~ ADV,"TRAINEE: Thank you for calling Walt Disney World Resorts, where celebrations are our specialty. My name is {Stage Name}. How may I assist you?
+SYM: Hello, I would like to make a reservation.
+TRAINEE: I’d be happy to assist you and thank you for choosing Disney as your vacation destination.
+TRAINEE: May I have your last name and email address?
+SYM: Callahan, and my email is jcallahan at animail.net.
+TRAINEE: Thank you, Joan! What dates and how many nights would you like to stay with us?
+SYM: Checking-In on November 24th, 2025, and Checking-Out on November 30th, 2025.
+TRAINEE: Thank you, Joan, who will be traveling with you?
+SYM: My husband Klein.
+TRAINEE: Thank you, Joan, who else will be traveling with you?
+SYM: My son, Carrillo.
+TRAINEE: Thank you, Joan, will there being anyone else traveling with you?
+SYM: Yes, my daughter Bridget.
+TRAINEE: Thank you.
+TRAINEE: Have you decided on which resort you would like to stay at?
+SYM: Contemporary Resort.
+TRAINEE: Have you stayed at this resort before?
+SYM: We have; we love the resort, it’s our favorite.
+TRAINEE: It’s one of my favorites also. I love how the Monorail travels through the middle of the resort.
+TRAINEE: Joan, will you need theme park tickets?
+SYM: Yes, a 6-day ticket with the Park Hopper Plus.
+TRAINEE: Would you like to include a dining plan?
+SYM: Yes, I’d like the Disney Dine Plan.
+TRAINEE: Would you like to include vacation protection in your package for only $95.00 per adult inclusive of children up to 17 years old? It can cover trip cancellation and trip interruption.
+SYM: No, thanks. We will need 2 rooms as we would like the kids to have their own room.
+TRAINEE: I will be happy to assist you, please give me a few moments to check the availability.
+TRAINEE: Would you like to include Memory Maker? Memory Maker is an incredible way to enjoy unlimited digital Disney Photo Pass photos captured at hundreds of locations throughout Walt Disney World Resort—including select attraction and dining locations. The photos are conveniently connected to your online Disney account with a touch of your MagicBand, MagicMobile or Key to the World Card. It is regularly $210, with the advanced price of $185 if purchased at least 3 days prior.
+SYM: No, thanks.
+TRAINEE: Will you be flying or driving?
+SYM: We’re flying.
+TRAINEE: Will you need a rental car?
+SYM: No, we don’t need one.
+TRAINEE: Joan, I do have availability, at Disney’s Contemporary Resort, with a Garden Wing – Resort View, with 2 Rooms arriving on November 24th, 2025, checking out on November 30th, 2025, with the Disney Dining Plan and a 6 Day Park Hopper Plus Theme Park Ticket Valid Monday, November 24th, 2025, thru Wednesday, December 3rd, 2025, your total cost will be $15,727.38 Without travel protection, including tax. This would not include the overnight parking fee that will be charged at the resort upon arrival.​
+TRAINEE: Would you like to secure the reservation for you and your family today? It will only be a $200 deposit the remaining balance will be due 30 days prior to arrival.
+SYM: Yes, this sounds perfect.​
+TRAINEE: Joan, I do have a few policies to review: A deposit of $200.00 is due on August 20, 2025. The balance is due on October 25, 2025. Modifications within 29 days of arrival are subject to a $50.00 change fee. If you cancel the reservation 29-2 days before arrival, there is a $200 cancellation fee. If you cancel the reservation the day prior to or the day of arrival, the full package price is non-refundable. Gratuity is not included with the Dining Plan. Your Tickets will be valid Monday, November 24th, 2025, to Wednesday, December 23rd, 2025.
+TRAINEE: Do you have any questions?
+SYM: No, I don’t.
+TRAINEE: Joan, I have a reservation for you, Klein Callahan, Bridget Callahan (4 years old), and Carrillo (12 years old). Staying at Disney’s Contemporary Resort in a Garden Wing – Resort View Room with 2 Rooms, Disney Dining Plan and 6 Day Theme Park Ticket with the Park Hopper Plus – Checking in on November 24th, 2025, – Checking out on November 30th, 2025.
+TRAINEE: Your confirmation number is 27015181.
+TRAINEE: Your deposit of $200.00 is due on August 20th, 2025, with the remaining balance due 30 days prior to arrival on October 25th, 2025.
+TRAINEE: Your total reservation is $15,727.38.
+TRAINEE: Would you like to use your Disney Visa Card for your deposit today?
+SYM: Yes, please.
+TRAINEE: Joan, may I have your credit card number, please?
+SYM: 4 2 6 6 - 9 0 2 0 - 0 0 1 8 - 4 2 2 4.
+TRAINEE: Thank you.
+TRAINEE: May I have the expiration month and year, please?
+SYM: December 2025.
+TRAINEE: Thank you.
+TRAINEE: Joan, is the name and address on the reservation the same name and address on your credit card?
+SYM: Yes.
+TRAINEE: Joan, would you like to use this credit card for charges incurred during your stay?
+SYM: Yes.
+TRAINEE: Joan, your remaining balance is $15,527.38 due 30 days prior to arrival, October 25th, 2025.
+TRAINEE: Joan, you can link your reservation to MyDisneyExperience.com or the mobile app.
+TRAINEE: Our website and app also allow you to book and manage your upcoming ticket, park and dining reservations at Walt Disney World.
+TRAINEE: You can begin booking your dining reservations 60 days prior to arrival.
+TRAINEE: Is there a birthday or anything special you will be celebrating during your visit that you would like me to note?
+SYM: No, thank you.
+TRAINEE: Joan, is there anything else I can assist you with today?
+SYM: No, thank you!
+TRAINEE: I have a survey at the end of the call and would greatly appreciate your feedback. Thank you for calling Walt Disney Resorts. We look forward to seeing you in November. Have a Magical Day.",The customer called to make a reservation for a family vacation at Walt Disney World Resorts.,"['Collect customer details and travel dates', 'Select resort and room preferences', 'Add theme park tickets and dining plan', 'Confirm availability and total cost', 'Process deposit payment and provide confirmation']",other,other,other
+BN_CANCEL_RELEASED_ORDER_ADV,"TRAINEE: Thank you for calling Barnes and Noble. My name is (Your Name). How can I help you?
+SYM: Hello. My name is Anita Napp. I just called and the nice man told me that he would send me a new copy of my book because it wasn't delivered. As soon as we hung up, my mail was delivered. The book was in today's mail! Can you cancel the new order that was just placed?
+TRAINEE: No problem, Anita. I would be happy to see if we can cancel the new order for you. Can I have your Order Number, please?
+SYM: Sure, my order number is 6123456789.
+TRAINEE: Thank you. Can I please have you verify your email address?
+SYM: Sure. My email address is anita napp at gmail.com.
+TRAINEE: Thank you. What is the shipping address on the order?
+SYM: My address is 1 2 3 Main Street. That's in Anytown, Ohio 4 3 5 5 5.
+TRAINEE: Thank you. One moment while I research to see if I can cancel the order.
+TRAINEE: Your order is in a status that I can't make any changes, but I can send a cancel request to the warehouse. I can't promise that it will be cancelled, but we will update you within 24 hours whether we can cancel the order or not. Would you like me to proceed with canceling the order?
+SYM: Yes, I don't need two copies of the same book.
+TRAINEE: No problem. One moment while I send the request.
+TRAINEE: Thank you for your patience. I've sent the request to cancel your order. You'll receive an email within 24 hours to let you know if we can cancel the order or not. You can return it if we can't get it canceled.
+SYM: Ok, thanks. I appreciate it.
+TRAINEE: You're welcome. Is there anything else I can assist you with today?
+SYM: No, that's it. Thanks.
+TRAINEE: Thank you for calling Barnes and Noble. Have a great day.",The customer called to cancel a replacement order for a book that was delivered after the order was placed.,"[""Verify the customer's order number and email address."", 'Check the order status and send a cancellation request to the warehouse.', 'Inform the customer that they will receive an email update within 24 hours regarding the cancellation status.']",track_order_status,other,track_order_status
+BN_ORDER_LOST_REPLACE_ADV,"TRAINEE: Thank you for calling Barnes and Noble. My name is (Your Name). How can I help you?
+SYM: Hi. I placed an order and wanted to know the status. I should have received my order by now. I really need the books to give them as a gift next week.
+TRAINEE: I'm sorry you haven't received your order. I would be happy to check the status of your order. Can I have your order number, please?
+SYM: My order number is 4 1 3 6 3 3 3 9 3 0.
+TRAINEE: Thank you. One moment while I locate your order.
+SYM: No problem. I appreciate it.
+TRAINEE: Can I have you verify your email address, please?
+SYM: Sure. My email address is anita napp at gmail.com.
+TRAINEE: Great, thanks! What is your shipping address, please?
+SYM: My address is 5 7 2 Angel Place, Sunny, California 9 0 2 1 0.
+TRAINEE: Thank you. Just a moment please, while I research your order.
+TRAINEE: Thank you for your patience. I can see your order shipped on January 17th and was expected to be delivered by January 24th. One moment while I review the tracking details.
+SYM: Okay, thanks. I appreciate your help.
+TRAINEE: Thank you for your patience. I've checked the tracking, and I can see that is was delivered on January 24th. Have you checked your mailbox and all of the doors?
+SYM: Yes. I checked everywhere, and I still can't find the package.
+TRAINEE: I'm going to consider your order lost in transit. Give me a moment while I check the available options.
+SYM: Sure.
+TRAINEE: Great news! I have the items in stock, and can have your order replaced free of charge. Would you like me to replace them?
+SYM: Yes, I want them replaced. I need them for a gift next week.
+TRAINEE: Absolutely! Due to the inconvenience, I will upgrade the shipping level as well.
+SYM: Ok, thanks! That would be great, and will help so much!
+TRAINEE: Of course. It's my pleasure since you didn't receive them.
+TRAINEE: Are there any changes to the delivery address that we need to make?
+SYM: No, it will go to the same address, but can you add apartment B onto the shipping address?
+TRAINEE: Yes, I can update the address to include your apartment number.
+TRAINEE: The expected delivery date for your order would be on Friday, February 3rd.
+SYM: Ok, sounds good. That should be before the party.
+TRAINEE: You'll receive an email confirming the order shortly. You will also receive a shipping confirmation email when the order ships, which includes tracking information.
+TRAINEE: Your new order number is 6180000649. I will also email you a return label in case you receive the original and the replacement.
+SYM: I just received the first email. Thank you.
+TRAINEE: You're welcome. Is there anything else I can assist you with?
+SYM: No, that's it. Thanks!
+TRAINEE: Thank you! Have a great day, and thanks for calling Barnes and Noble.","The customer called to check the status of an order that was expected but not received, needing the books as a gift next week.","['Verify order details and tracking information.', 'Confirm the order is lost in transit and offer a replacement.', 'Update shipping address and expedite delivery.', 'Provide new order number and email confirmations.']",track_order_status,track_order_status,track_order_status
+C2 Car insurance claim - FNOL – ADVANCED,"SYM: In this simulation, you will learn how to create an F N O L claim for a car insurance company.
+SYM: STEP 1 - Opening.
+SYM: [Phone rings]
+TRAINEE: Thank you for calling ABC Insurance. My name is [YOUR NAME]. How may I assist you today?
+SYM: Hi. I need to file a car insurance claim for an accident I was just involved in.
+SYM: STEP 2 - Gather Information.
+TRAINEE: I'm sorry to hear about the accident. Let's start by making sure we have all the necessary information. May I have your first and last name?
+SYM: Pat Davis.
+TRAINEE: Thank you, Can you please provide me with your policy number?
+SYM: Yes, it's A B C 1 2 3 4 5 6.
+TRAINEE: Thank you, Pat. I see your policy here. Now, could you please provide me with the date and time of the accident?
+SYM: The accident occurred today, May 17th, 2023, at around 3:30 p.m.
+TRAINEE: Got it. And can you briefly describe what happened during the accident?
+SYM: I was driving on Main Street when another car ran a red light and crashed into the driver's side of my vehicle. It was a T-bone collision.
+TRAINEE: I'm sorry to hear that. Is everyone involved in the accident safe and is anyone injured?
+SYM: Fortunately, no one was seriously injured, but both cars sustained significant damage.
+TRAINEE: I'm glad to hear that no one was hurt. Safety is our top priority. Now, could you please provide me with the contact and insurance information of the other party involved in the accident?
+SYM: The other driver's name is Sarah Johnson, and her phone number is (555) 123 - 4567. I also have her insurance information. Her insurance company is XYZ Insurance, and her policy number is D E F 9 8 7 6 5 4.
+TRAINEE: Thank you for providing that information, Pat. Now, I need to gather some details about your vehicle. Can you please provide me with the make, model, and year of your car?
+SYM: Sure. I drive a 2018 Honda Accord.
+TRAINEE: Great. And do you have any photos of the accident scene or the damage to your vehicle?
+SYM: Yes, I took some pictures with my phone. I can send them to you if needed.
+TRAINEE: That would be helpful, Pat. Please send the photos to our dedicated claims email address, which is claims@insurance.com. Make sure to include your policy number and a brief description of the accident in the email.
+SYM: Okay, I'll do that right away.
+TRAINEE: Thank you, Pat. Lastly, is there anything else you would like to add or any specific questions you have about the claims process?
+SYM: Not at the moment. I just want to get my car repaired as soon as possible.
+SYM: STEP 3 - Setting Expectations.
+TRAINEE: Understood, Pat. We will do our best to expedite the claims process for you. Once we receive your email with the photos, an adjuster will be assigned to your case, and they will reach out to you within the next 24 to 48 hours to discuss the next steps.
+SYM: I appreciate it.
+TRAINEE: Is there a preferred phone number or email address where they can contact you?
+SYM: Yes, they can reach me at (555) 987 - 6543 and my email is pat@email.com.
+SYM: STEP 4 - Closing.
+TRAINEE: Perfect, I have noted down your preferred contact information, and the adjuster will be in touch soon. Thank you for reporting the accident, and we will assist you throughout the entire claims process. If you have any further questions, please don't hesitate to reach out to us.
+SYM: Thank you. I appreciate your help.
+TRAINEE: You're welcome, Pat. Take care, and we'll be in touch soon.
+SYM: This concludes your simulation.","The customer needs to file a car insurance claim for a T-bone collision that occurred on May 17th, 2023.","[""Gather the customer's personal and policy information, including name, policy number, and accident details."", 'Collect details about the accident, such as date, time, description, and information about the other party involved.', 'Obtain vehicle details, including make, model, and year, and request photos of the damage to be sent via email.', 'Set expectations by explaining the claims process, assigning an adjuster, and confirming preferred contact information for follow-up.']",file_insurance_claim,file_insurance_claim,file_insurance_claim
+C2 Car insurance claim - FNOL – Step 1 (Opening),"SYM: In this simulation, you will learn how to do an opening of a call, regarding a car insurance claim.
+SYM: STEP 1 - Opening.
+SYM: [Phone rings]
+TRAINEE: Thank you for calling ABC Insurance. My name is [YOUR NAME]. How may I assist you today?
+SYM: Hi, My name is Pat Davis. I need to file a car insurance claim for an accident I was just involved in.
+SYM: This concludes your simulation.",The customer needs to file a car insurance claim for a recent accident.,"[""Step 1: Gather the customer's personal and policy information."", 'Step 2: Collect details about the accident, including date, time, location, and involved parties.', 'Step 3: Guide the customer through the claim submission process and provide next steps.']",file_insurance_claim,file_insurance_claim,file_insurance_claim
+Copy OSA - Parity 2.0 1,"TRAINEE: Thank you for calling Northwestern Mutual, Underwriting Case Management, this is ________. How may I help you?
+SYM: Hi! This is Norm Weston calling from John Barrett's office. This case for Marty Juana has taken forever, what is the underwriter waiting on?
+TRAINEE: Hi Norm, may I start with a policy number to get started?
+SYM: This case for Marty Juana has taken forever, what is the underwriter waiting on? The policy number is T195129.
+TRAINEE: Thank you, Norm. Give me one moment to pull up the case.
+TRAINEE: Thank you, Norm, I do have Marty's case pulled up here. You would like to talk about what will move this case to approval, is that correct?
+SYM: Yes, that is what I'm looking for.
+TRAINEE: Please give me a moment so I can review the details of the case and see what we can do to get this moving.
+SYM: Sounds good!
+TRAINEE: Thank you so much, I am all up to speed on this case. It looks like we are awaiting records from Dr. Smith's office and that a special authorization was sent to your office by the APS vendor to be reviewed. Do you have a copy of that completed form?
+SYM: No, I thought you sent it to the client and not just to me.
+TRAINEE: Thank you, Norm. Let me take a moment to review the notes from our APS vendor to determine where the document was sent.
+SYM: Please do, I hope you sent it to the client.
+TRAINEE: It doesn't appear that this was sent directly to the client, instead it was sent to your office to facilitate that request. I can have that resent to you right away.
+SYM: Ok, that is fine. Do you really need these records though? It's been a long time.
+TRAINEE: It does look from the notes that the underwriter does require these notes in order to reach the final decision, however, I will put in a note requesting for a risk review and the underwriter will reach out with that information. In the meantime, I'll get the form over to you to reduce any further delay.
+SYM: That sounds fair. Thank you.
+TRAINEE: Of course. Is there anything else I can assist you with?
+SYM: No, that was all.
+TRAINEE: Awesome, well thank you so much for putting your trust in Northwestern Mutual. Have a great rest of your day.
+SYM: Thank you, you as well!",The customer is calling to inquire about the delay in approving Marty Juana's case and what the underwriter is waiting for.,"['Verify the policy number and pull up the case details.', ""Review the case to identify pending items, such as records from Dr. Smith's office and a special authorization form."", ""Check where the authorization form was sent and resend it to the customer's office if necessary."", 'Place a note for a risk review with the underwriter to expedite the decision.']",other,other,file_insurance_claim
+Copy TLE eApp-Final Producer Signature 2,"SYM: Da da da da.
+SYM: You did it! You have made it to the last sym of the TLE e Application module.
+SYM: Let’s get this application submitted and our customer covered!
+SYM: What did we learn today? Take a moment to review some of the key learnings from this sym.
+SYM: Click the lightbulb when you are ready to continue.
+SYM: Congratulations! You did it! You have completed the initial TLE eApplication training. I still have a few things to teach you, but you have accomplished a huge milestone getting through the application!
+SYM: I am so proud of you! Give yourself a pat on the back and eat some cake or something! You deserve it.","The transcript is a training simulation completion message, not a customer call.",['No action required as this is not a real customer issue.'],other,other,other
+Demo sym - Prescription Request__BEG - Screen Navigation,"SYM: Hello and welcome to our ABC BackOffice tool training. Here, we will learn how to create a prescription request for a client. All the data that you will enter in this simulation is sample data. This is a practice sym, once you get on a live call, the data will be based on the interactions with the caller.
+SYM: You will first enter the customer’s contact reason in the highlighted fields.
+SYM: Now, you'll write the customer's full name by clicking on the First Name and Last Name fields on the page.
+SYM: After entering the customer's full name, click on search.
+SYM: You will now validate the customer's date of birth for security verification purposes.
+SYM: You will now search for the name of the medication the customer is looking to get a prescription for. Use the sample data as advised.
+SYM: Once you've found the medication details in the system, you'll confirm with the customer if they have ever been prescribed this medication when you take a live call.
+SYM: Subsequently, you'll write down the dosage and quantity of the medication requested by the customer on a live call.
+SYM: Write in the customer's complete address with the zip code in the required fields.
+SYM: For the delivery process, you'll check the options available in the Delivery dropdown and choose accordingly.
+SYM: Finally, enter the primary healthcare provider's name and phone number.
+SYM: Once you have entered all the details, you'll click on Save to record the information and the task will be completed and assigned.
+SYM: Good job! You have now completed training on ""How to create a prescription request for a customer"". Click on the screen to finish and wait for your trainer to give you further instructions.
+SYM: This concludes your simulation.",The customer is undergoing training to learn how to create a prescription request for a client using the ABC BackOffice tool.,"[""Enter the customer's contact reason in the highlighted fields."", ""Write the customer's full name by clicking on the First Name and Last Name fields."", ""Click on search after entering the customer's full name."", ""Validate the customer's date of birth for security verification."", 'Search for the name of the medication the customer is looking to get a prescription for.', 'Confirm with the customer if they have ever been prescribed this medication on a live call.', 'Write down the dosage and quantity of the medication requested by the customer.', ""Enter the customer's complete address with the zip code."", 'Check the options in the Delivery dropdown and choose accordingly.', ""Enter the primary healthcare provider's name and phone number."", 'Click on Save to record the information and complete the task.']",other,other,other
+Dick_s Sporting Goods - Kayak Pick up,"SYM: You are about to begin a simulation  Please click *** ****** Sporting Goods logo to begin  
+SYM: ****** Sporting Goods customer service  For order status press 1 to place an order press 2  
+TRAINEE:  Thank you for calling Dick's Sporting Goods Customer Service, how can I help you today?
+SYM: Hi, I'm calling because I'm trying to buy this kayak online and I want to go pick it up, but your website won't let me  
+TRAINEE:  I apologize for your difficulty, let me go on our website and walk through it with you, I'm sure we can take care of it.
+SYM: Thanks the weather looks good for tomorrow, so I want to grab this and go  
+TRAINEE:  Don't worry, we'll get you out on that water.  Let's start fresh, can you go to dickssportinggoods.com?
+SYM: I'm there  
+TRAINEE:  Do you see the words ""Shop Departments"" on the top left?
+SYM: Got it  
+TRAINEE:  Now click outdoor and then select Kayaks.
+SYM: Got it  
+SYM: OK, I see the one I want  
+TRAINEE:  Good, which one is it?
+SYM: The Pelican Mustang 100 X  
+TRAINEE:  That is a great choice.  If you look right above the Add to Cart button you will see where you select pickup in store.
+SYM: This is where the problem was  When I try to add it, I get a red warning about product options, but I don't see any options to choose from  
+TRAINEE: Now I understand, in this case the options for the Mustang 100X are the colors, did you select a color?
+SYM: I can't believe I missed that  
+TRAINEE:  Let's make sure the color you want is available where you want it.  Please go ahead and click on the Pick Up option, the site should prompt you for your zip code.
+SYM: One SEK, well, I type it in  
+TRAINEE:  Now just select a store that's close to you and hit the ""X"" in the top right corner.
+SYM: OK, I did  
+TRAINEE:  Now click Add to Cart.
+SYM: Now I see some accessories, but I have all that  
+TRAINEE:  Then all you need to do is click ""View Cart"" and you should see your order with your store of choice listed for pickup.
+SYM: I do thanks, I'm all good now  
+TRAINEE:  Is there anything else I can help you with?
+SYM: No thanks, I'm all set  
+TRAINEE:  Then I hope you have a great time on the water, and thanks for calling Dick's Sporting Goods.
+SYM: This completes the simulation  ",The customer called because the website would not allow them to select in-store pickup for a kayak purchase due to a missing color selection.,"['Navigate to the kayak product page on the website.', 'Select the desired color option for the kayak.', 'Choose in-store pickup and enter the zip code to select a store.', 'Add the item to the cart and proceed to checkout.']",other,other,track_order_status
+FINANCIAL _ B1 Zelle Payment issue - extreme SHORTENED,"SYM: [Mario wants to know why a Zelle payment is not showing up in his account]
+TRAINEE: Thank you for calling. How can I help you?
+SYM: Yeah, what's going on here? My buddy just sent me some money through Zelle but it never made it into my account. I saw him do it. But the money's not in my account. You guys either lost it or stole it. I need you to find it and put it in my account NOW. 
+TRAINEE: I'd be happy to assist you. What is the account the money is going into?
+SYM: [snarky] Why, so you can steal even more? I had to enter it just to get connected to you. Why do I have to give it again? 
+TRAINEE: We have to ask for security reasons.
+SYM: [exasperated] OK it's 2 2 2 2    2 2 2 2    2 2
+TRAINEE: Thank you. I'm checking now to see if the transfer is pending.
+SYM: What do you mean PENDING? This is supposed to be INSTANT. Just put the money into my account.  NOW.
+TRAINEE: One moment please. 
+SYM: [sighing loudly]
+TRAINEE: So, the reason the funds haven’t processed yet is that your e-mail address is not registered.
+SYM: No way. I DID give my email. I set this up a few days ago, I know I did. Go register it NOW and put my money in the account NOW.
+TRAINEE: I’m sorry about it, but for security reasons I can’t do it for you. But if you login, I can walk you through the one click process.
+SYM: Are you kidding me? Fine. But this better be the LAST TIME I register my email. You guys are idiots. 
+TRAINEE: I understand your frustration. Now, see the box that says ACTIVATE EMAIL on your home screen? Click on that please.
+SYM: Alright, fine. 
+TRAINEE: Thank you, that took care of it. You should see the funds  now.
+SYM: This completes your simulation.",The customer called because a Zelle payment from a friend did not appear in his account despite being sent.,"['Verify the account details and check for pending transfers.', 'Guide the customer to register or activate their email address in the Zelle system to process the payment.']",update_payment_method,other,update_payment_method
+H21 Health insurance coverage question – (Real human voice),"SYM: In this simulation, you will help a customer identify whether a procedure is covered by their health insurance.
+SYM: STEP 1 - Opening.
+SYM: [Phone rings]
+TRAINEE: Thank you for calling ABC Health Insurance. My name is [YOUR NAME]. How may I assist you today?
+SYM: Hi, my name is Ash. I wanted to inquire if a specific medical procedure is covered by my health insurance.
+TRAINEE: Of course, Ash. I'm here to help. May I have your first and last name?
+SYM: Ash Harris.
+TRAINEE: I appreciate it. Can you please provide me with your policy number so that I can access your account?
+SYM: Sure, my policy number is A B C 1 2 3 4 5 6.
+SYM: STEP 2 - Gather Information.
+TRAINEE: Thank you, Ash. Let me pull up your policy information. While I do that, could you please provide me with the details of the medical procedure you're inquiring about?
+SYM: I'm considering getting a knee surgery called arthroscopic meniscectomy. I wanted to know if it's covered under my policy.
+TRAINEE: I understand. Let me check the specifics of your coverage. Just give me a moment, please.
+TRAINEE: Thank you for waiting, Ash. I have reviewed your policy, and I can confirm that arthroscopic meniscectomy is covered under your health insurance plan. However, it's important to note that coverage can vary based on factors such as medical necessity, network providers, and any applicable deductibles or co-payments.
+SYM: That's great to hear! Could you please provide me with some additional information? For instance, do I need a referral from my primary care physician before scheduling the surgery?
+TRAINEE: That's an excellent question, Ash. According to your policy, you do not require a referral from your primary care physician for this specific procedure. However, it's always a good idea to consult with your doctor or surgeon to ensure that the surgery is appropriate for your specific medical condition.
+SYM: I see. Thank you for clarifying that. Now, I'm also curious about the coverage limits and any out-of-pocket expenses I may incur.
+TRAINEE: Certainly, Ash. Let me go over that with you. Your policy has a coverage limit for surgical procedures, and I can see that it includes coverage for this specific surgery. As for out-of-pocket expenses, it's important to review your policy documents or contact our claims department to determine any deductibles, co-payments, or coinsurance that may apply.
+SYM: I'll make sure to review my policy documents. Lastly, could you provide me with a list of in-network surgeons or facilities that perform this procedure?
+TRAINEE: Absolutely, Ash. I can assist you with that. Please bear with me while I access the network provider information.
+SYM: No worries.
+TRAINEE: Thank you for your patience, Ash. I have compiled a list of in-network surgeons and facilities that perform arthroscopic meniscectomy in your area. I will email you the list to the email address we have on file. Additionally, you can also visit our website or contact our customer service line to obtain this information.
+SYM: That's perfect. Thank you so much for your help. You've been very informative.
+SYM: STEP 3 - Closing.
+TRAINEE: You're welcome. Can you confirm your email address for me?
+SYM: That would be Ash@email.com
+TRAINEE: Thank you, Ash. I'm glad I could assist you. If you have any further questions or need any additional information, please don't hesitate to reach out to us. We're here to help you make the most of your health insurance coverage.
+SYM: I appreciate that. Thanks again for your assistance.
+TRAINEE: It's my pleasure, Ash. Take care, and have a great day!
+SYM: This concludes your simulation.",The customer called to inquire if arthroscopic meniscectomy knee surgery is covered by their health insurance.,"[""Verify the customer's policy details and coverage for the procedure."", 'Provide information on referral requirements, coverage limits, out-of-pocket expenses, and in-network surgeons or facilities.']",file_insurance_claim,other,file_insurance_claim
+H21 Health insurance coverage question – (Real human voice) (1),"SYM: In this simulation, you will help a customer identify whether a procedure is covered by their health insurance.
+SYM: STEP 1 - Opening.
+SYM: [Phone rings]
+TRAINEE: Thank you for calling ABC Health Insurance. My name is [YOUR NAME]. How may I assist you today?
+SYM: Hi, my name is Ash. I wanted to inquire if a specific medical procedure is covered by my health insurance.
+TRAINEE: Of course, Ash. I'm here to help. May I have your first and last name?
+SYM: Ash Harris.
+TRAINEE: I appreciate it. Can you please provide me with your policy number so that I can access your account?
+SYM: Sure, my policy number is A B C 1 2 3 4 5 6.
+SYM: STEP 2 - Gather Information.
+TRAINEE: Thank you, Ash. Let me pull up your policy information. While I do that, could you please provide me with the details of the medical procedure you're inquiring about?
+SYM: I'm considering getting a knee surgery called arthroscopic meniscectomy. I wanted to know if it's covered under my policy.
+TRAINEE: I understand. Let me check the specifics of your coverage. Just give me a moment, please.
+TRAINEE: Thank you for waiting, Ash. I have reviewed your policy, and I can confirm that arthroscopic meniscectomy is covered under your health insurance plan. However, it's important to note that coverage can vary based on factors such as medical necessity, network providers, and any applicable deductibles or co-payments.
+SYM: That's great to hear! Could you please provide me with some additional information? For instance, do I need a referral from my primary care physician before scheduling the surgery?
+TRAINEE: That's an excellent question, Ash. According to your policy, you do not require a referral from your primary care physician for this specific procedure. However, it's always a good idea to consult with your doctor or surgeon to ensure that the surgery is appropriate for your specific medical condition.
+SYM: I see. Thank you for clarifying that. Now, I'm also curious about the coverage limits and any out-of-pocket expenses I may incur.
+TRAINEE: Certainly, Ash. Let me go over that with you. Your policy has a coverage limit for surgical procedures, and I can see that it includes coverage for this specific surgery. As for out-of-pocket expenses, it's important to review your policy documents or contact our claims department to determine any deductibles, co-payments, or coinsurance that may apply.
+SYM: I'll make sure to review my policy documents. Lastly, could you provide me with a list of in-network surgeons or facilities that perform this procedure?
+TRAINEE: Absolutely, Ash. I can assist you with that. Please bear with me while I access the network provider information.
+SYM: No worries.
+TRAINEE: Thank you for your patience, Ash. I have compiled a list of in-network surgeons and facilities that perform arthroscopic meniscectomy in your area. I will email you the list to the email address we have on file. Additionally, you can also visit our website or contact our customer service line to obtain this information.
+SYM: That's perfect. Thank you so much for your help. You've been very informative.
+SYM: STEP 3 - Closing.
+TRAINEE: You're welcome. Can you confirm your email address for me?
+SYM: That would be Ash@email.com
+TRAINEE: Thank you, Ash. I'm glad I could assist you. If you have any further questions or need any additional information, please don't hesitate to reach out to us. We're here to help you make the most of your health insurance coverage.
+SYM: I appreciate that. Thanks again for your assistance.
+TRAINEE: It's my pleasure, Ash. Take care, and have a great day!
+SYM: This concludes your simulation.",The customer called to inquire if arthroscopic meniscectomy knee surgery is covered by their health insurance policy.,"[""Verify the customer's policy details and coverage for the specific procedure."", 'Provide information on referral requirements, coverage limits, out-of-pocket expenses, and in-network surgeons or facilities.']",file_insurance_claim,other,file_insurance_claim
+H21 Health insurance coverage question – Step 1 (Opening),"SYM: In this simulation, you will learn how to open a call, when the customer has called in to identify whether a procedure is covered by their health insurance.
+SYM: STEP 1 - Opening.
+SYM: [Phone rings]
+TRAINEE: Thank you for calling ABC Health Insurance. My name is [YOUR NAME]. How may I assist you today?
+SYM: Hi, my name is Ash. I wanted to inquire if a specific medical procedure is covered by my health insurance.
+TRAINEE: Of course, Ash. I'm here to help. May I have your first and last name?
+SYM: Ash Harris.
+TRAINEE: I appreciate it. Can you please provide me with your policy number so that I can access your account?
+SYM: Sure, my policy number is A B C 1 2 3 4 5 6.
+SYM: This concludes your simulation.",The customer called to inquire if a specific medical procedure is covered by their health insurance.,"[""Ask for the customer's first and last name to verify identity."", 'Request the policy number to access the account and check coverage details.']",file_insurance_claim,other,file_insurance_claim
+H21 Health insurance coverage question – Step 2 (Gather Information),"SYM: You have already opened the call and verified customer details. In this simulation, you will gather information and resolve the customer's concern.
+SYM: STEP 2 - Gather Information.
+TRAINEE: Thank you, Ash. Let me pull up your policy information. While I do that, could you please provide me with the details of the medical procedure you're inquiring about?
+SYM: I'm considering getting a knee surgery called arthroscopic meniscectomy. I wanted to know if it's covered under my policy.
+TRAINEE: I understand. Let me check the specifics of your coverage. Just give me a moment, please.
+TRAINEE: Thank you for waiting, Ash. I have reviewed your policy, and I can confirm that arthroscopic meniscectomy is covered under your health insurance plan. However, it's important to note that coverage can vary based on factors such as medical necessity, network providers, and any applicable deductibles or co-payments.
+SYM: That's great to hear! Could you please provide me with some additional information? For instance, do I need a referral from my primary care physician before scheduling the surgery?
+TRAINEE: That's an excellent question, Ash. According to your policy, you do not require a referral from your primary care physician for this specific procedure. However, it's always a good idea to consult with your doctor or surgeon to ensure that the surgery is appropriate for your specific medical condition.
+SYM: I see. Thank you for clarifying that. Now, I'm also curious about the coverage limits and any out-of-pocket expenses I may incur.
+TRAINEE: Certainly, Ash. Let me go over that with you. Your policy has a coverage limit for surgical procedures, and I can see that it includes coverage for this specific surgery. As for out-of-pocket expenses, it's important to review your policy documents or contact our claims department to determine any deductibles, co-payments, or coinsurance that may apply.
+SYM: I'll make sure to review my policy documents. Lastly, could you provide me with a list of in-network surgeons or facilities that perform this procedure?
+TRAINEE: Absolutely, Ash. I can assist you with that. Please bear with me while I access the network provider information.
+SYM: No worries.
+TRAINEE: Thank you for your patience, Ash. I have compiled a list of in-network surgeons and facilities that perform arthroscopic meniscectomy in your area. I will email you the list to the email address we have on file. Additionally, you can also visit our website or contact our customer service line to obtain this information.
+SYM: That's perfect. Thank you so much for your help. You've been very informative.
+SYM: This concludes your simulation.",The customer is inquiring about coverage for arthroscopic meniscectomy knee surgery under their health insurance policy.,"['Confirm coverage for the procedure under the policy.', 'Provide information on referral requirements, coverage limits, out-of-pocket expenses, and in-network surgeons or facilities.']",file_insurance_claim,other,file_insurance_claim
+Health Insurance (advanced) Adjust existing payment plan _ Part 1 of 2 Discover need and propose solution,"TRAINEE: [Greet member and offer assistance] 
+SYM: Hi, I’m getting an overdue notice on my account. I have a payment plan set up, and I’ve been making my payments regularly and on time. Can you please help me figure out what's going on?
+TRAINEE: [Assure them you are happy to assist, reflect what you heard their needs are, and request permission to ask a few questions.]
+SYM: Sure. It’s just really upsetting when I’m very careful about paying my bills on time to get something indicating that I haven’t.
+TRAINEE:  [first and last name]
+SYM: Pat Harris.
+TRAINEE: [date of birth]
+SYM: 5/31/1984
+TRAINEE: Thank you.
+SYM: Click on 'Submit'.
+SYM: Click on ‘Add task' option.
+SYM: Select the 'service billing' option.
+SYM: Click on 'Add Task' option in the lower right corner.
+TRAINEE: [ Guarantor Account number]
+SYM: 8 4 2 1 2 6 3 0 1
+TRAINEE: Thank you.
+SYM: Select 'Ok' in the Next Best Action.
+TRAINEE: [Remaining balance on existing payment plan. When billed and when due. New charges and most recent notice.]
+SYM: Oh! So that explains why I got an overdue notice. I thought these new charges would automatically be rolled into my payment plan. I'm glad you explained it. I've been so stressed out.
+TRAINEE: [they can add new charges into existing plan and re-establish payment plan, either with you or on the website.]
+SYM: It would be great if you could do that for me now.
+SYM: This ends your simulation.","The customer received an overdue notice despite making regular payments on an existing payment plan, due to new charges not being automatically included.","[""Verify the customer's identity and account details."", 'Check the remaining balance, billing dates, and new charges on the account.', 'Explain that new charges are not automatically added to the existing payment plan.', 'Offer to add the new charges into the existing plan and re-establish it.']",update_payment_method,other,track_order_status
+Learning Style Assessment Simulation_NAV,"SYM: In this simulation we will determine the learning style of each person.
+SYM: This is a screen navigational simulation. Follow the instructions provided throughout the simulation and complete the sym.
+SYM: This is the Hotspot. You would need to click on it to type in the answer or you would need to click on it to move to the next step. After typing in the details, you would need to click the 'enter' key to move forward.
+SYM: Concentrate on each slide detail to WIN the quiz at the end.
+SYM: There are several types of learning, categorized based on theories, approaches, and settings. Here’s an overview
+SYM: Visual learners understand best through pictures, charts, and diagrams. They prefer shapes and patterns over words or speech. Teachers can help by using tools like graphic organizers to explain ideas clearly.
+SYM: Auditory learners learn best by hearing and speaking. They enjoy lectures, group discussions, and talking through ideas. They often figure things out by speaking first, rather than planning what to say.
+SYM: Reading & writing learners understand best through words. They enjoy reading and do well with written tasks like stories or reports. They prefer learning through text, such as reading books or writing notes. Teachers can help by asking them to explain diagrams or charts in writing, which they can review later to remember the information.
+SYM: Kinesthetic learners learn best by doing. They like hands-on activities, real-life examples, and practicing skills through physical actions. Teachers can help by giving them practical tasks, like recreating experiments or working through examples to understand new ideas.
+SYM: Now let’s determine your learning style through a quick evaluation.
+SYM: Tip: [Now you’ve to speak the correct option showing on the screen based on your preferences and click “Next” to proceed.]
+SYM: What was the arrow color in the previous slide?
+SYM: What was the mistake in the previous slide’s sentence?
+SYM: Let's start!!! I need to find the way to a shop that a friend has recommended. I would
+TRAINEE: Options: A, B, C, D
+SYM: A website has a video showing how to make a special graph or chart. A person is speaking, some lists and words describing what to do, and some diagrams. I would learn most from
+TRAINEE: Options: A, B, C, D
+SYM: I want to find out more about a tour that I am going on. I would:
+TRAINEE: Options: A, B, C, D
+SYM: When choosing a career or area of study, these are important for me:
+TRAINEE: Options: A, B, C, D
+SYM: When I am learning I
+TRAINEE: Options: A, B, C, D
+SYM: You learning like a pro!!! I want to learn how to play a new board game or card game. I would:
+TRAINEE: Options: A, B, C, D
+SYM: I want to learn to do something new on a computer. I would:
+TRAINEE: Options: A, B, C, D
+SYM: I have finished a competition or test and would like feedback:
+TRAINEE: Options: A, B, C, D
+SYM: I want to learn how to take better photos. I would:
+TRAINEE: Options: A, B, C, D
+SYM: When learning from the Internet I like:
+TRAINEE: Options: A, B, C, D
+SYM: Now select which category you think suits you best!
+SYM: Write down in the text box given.
+SYM: Click on ‘FINISH’.
+SYM: Congratulations!!! Nows've completed the assessment. Your trainer will tell you the result.
+SYM: This concludes your simulation.",The customer is participating in a learning style assessment simulation to determine their preferred learning method.,"['Follow the on-screen instructions to answer each question based on personal preferences.', ""Click 'Next' after each response to proceed through the simulation."", 'Select the learning style category that best fits your answers and enter it in the text box.', ""Click 'FINISH' to complete the assessment and await results from the trainer.""]",other,other,other
+Misc),"SYM: [Phone rings]
+TRAINEE: Thank you for calling Zinus, this is (Agent's Name), may I have your name and email address, please?
+SYM: Hi. My name is Alexis and email is cloudchaser252@gmail.com.
+TRAINEE: Thank you, Alex! How can I help you today?
+SYM: We just ordered a bed and a mattress. It was actually delivered last week. Mattress was fine, there's just something about the bed frame. We're kind of not - liking the color. I think we still have the return period so we would like to take advantage of it and we will buy something else.
+TRAINEE: We're sorry to hear the bed frame did not work out for you. We can take a look at your options and discuss the return process. May I have your order number, please?
+SYM: Yes it's 3-3-0-0-3-0.
+TRAINEE: Thank you! Please bear with me while I validate your order.
+TRAINEE: I see an order placed January 9, 2024 for a bed frame and a mattress. To confirm the item that needs to be returned, that would be Olivia Metal and Wood Platform Bed Frame in Full size, correct?
+SYM: Yes. That is correct.
+TRAINEE: Looking at the tracking details, it shows it was delivered January 13, 2024. I can confirm that you are still within the 30 days of your return period, Alex.
+TRAINEE: To initiate the return, the bed frame needs to be returned back to us. Ensure that the item will be returned in its original packaging - complete with all original parts including the instruction manual.
+TRAINEE: We will then send you a prepaid return label and provide instructions for arranging a FedEx pickup.
+TRAINEE: After we receive the returned item, a refund will be generated back to the original form of payment within 2-3 business days. We will email you all these details right after this call.
+TRAINEE: I hope I was able to explain the process of the return. Is there anything else I can help you with at the moment, Alex?
+SYM: Nope. Sounds good. I will wait for your email.
+TRAINEE: Awesome! If you have any questions, feel free to respond to the email anytime. And thank you for calling Zinus, we hope you have a wonderful day!
+SYM: Thanks! You too!
+SYM: This concludes your simulation.",The customer wants to return a bed frame due to dissatisfaction with its color and is within the return period.,"['Initiate the return process for the Olivia Metal and Wood Platform Bed Frame in Full size.', 'Ensure the item is returned in its original packaging with all parts and the manual.', 'Send a prepaid return label and arrange FedEx pickup.', 'Process the refund to the original payment method within 2-3 business days after receiving the returned item.']",other,other,other
+OSA - Parity,"TRAINEE: Thank you for calling Northwestern Mutual, Underwriting Case Management, this is ________. How may I help you?
+SYM: Hi! This is Norm Weston calling from John Barrett's office. This case for Marty Juana has taken forever, what is the underwriter waiting on?
+TRAINEE: Hi Norm, may I start with a policy number to get started?
+SYM: This case for Marty Juana has taken forever, what is the underwriter waiting on? The policy number is T195129.
+TRAINEE: Thank you, Norm, I do have Marty's case pulled up here. You would like to talk about what will move this case to approval, is that correct?
+SYM: Yes, that is what I'm looking for.
+TRAINEE: Please give me a moment so I can review the details of the case and see what we can do to get this moving.
+SYM: Sounds good!
+TRAINEE: Thank you so much, I am all up to speed on this case. It looks like we are awaiting records from Dr. Smith's office and that a special authorization was sent to your office by the APS vendor to be reviewed. Do you have a copy of that completed form?
+SYM: No, I thought you sent it to the client and not just to me.
+TRAINEE: Thank you, Norm. Let me take a moment to review the notes from our APS vendor to determine where the document was sent.
+SYM: Please do, I hope you sent it to the client.
+TRAINEE: It doesn't appear that this was sent directly to the client, instead it was sent to your office to facilitate that request. I can have that resent to you right away.
+SYM: Ok, that is fine. Do you really need these records though? It's been a long time.
+TRAINEE: It does look from the notes that the underwriter does require these notes in order to reach the final decision, however, I will put in a note requesting for a risk review and the underwriter will reach out with that information. In the meantime, I'll get the form over to you to reduce any further delay.
+SYM: That sounds fair. Thank you.
+TRAINEE: Of course. Is there anything else I can assist you with?
+SYM: No, that was all.
+TRAINEE: Awesome, well thank you so much for putting your trust in Northwestern Mutual. Have a great rest of your day.
+SYM: Thank you, you as well!",The customer is calling to inquire about the delay in underwriting approval for Marty Juana's case and what is needed to move it forward.,"[""Review the case details to identify pending requirements, such as records from Dr. Smith's office and a special authorization form."", ""Resend the special authorization form to the customer's office to facilitate completion and reduce delays."", 'Request a risk review from the underwriter to expedite the decision-making process.']",other,other,file_insurance_claim
+OSA - Parity 2.0,"TRAINEE: Thank you for calling Northwestern Mutual, Underwriting Case Management, this is ________. How may I help you?
+SYM: Hi! This is Norm Weston calling from John Barrett's office. This case for Marty Juana has taken forever, what is the underwriter waiting on?
+TRAINEE: Hi Norm, may I start with a policy number to get started?
+SYM: This case for Marty Juana has taken forever, what is the underwriter waiting on? The policy number is T195129.
+TRAINEE: Thank you, Norm. Give me one moment to pull up the case.
+TRAINEE: Thank you, Norm, I do have Marty's case pulled up here. You would like to talk about what will move this case to approval, is that correct?
+SYM: Yes, that is what I'm looking for.
+TRAINEE: Please give me a moment so I can review the details of the case and see what we can do to get this moving.
+SYM: Sounds good!
+TRAINEE: Thank you so much, I am all up to speed on this case. It looks like we are awaiting records from Dr. Smith's office and that a special authorization was sent to your office by the APS vendor to be reviewed. Do you have a copy of that completed form?
+SYM: No, I thought you sent it to the client and not just to me.
+TRAINEE: Thank you, Norm. Let me take a moment to review the notes from our APS vendor to determine where the document was sent.
+SYM: Please do, I hope you sent it to the client.
+TRAINEE: It doesn't appear that this was sent directly to the client, instead it was sent to your office to facilitate that request. I can have that resent to you right away.
+SYM: Ok, that is fine. Do you really need these records though? It's been a long time.
+TRAINEE: It does look from the notes that the underwriter does require these notes in order to reach the final decision, however, I will put in a note requesting for a risk review and the underwriter will reach out with that information. In the meantime, I'll get the form over to you to reduce any further delay.
+SYM: That sounds fair. Thank you.
+TRAINEE: Of course. Is there anything else I can assist you with?
+SYM: No, that was all.
+TRAINEE: Awesome, well thank you so much for putting your trust in Northwestern Mutual. Have a great rest of your day.
+SYM: Thank you, you as well!",The customer is calling to inquire about the delay in approving Marty Juana's case and what the underwriter is waiting for.,"['Request the policy number to locate the case.', 'Review the case details to identify pending requirements.', 'Check the status of the special authorization form and confirm its recipient.', ""Resend the authorization form to the customer's office if needed."", 'Place a note for a risk review and inform the underwriter to expedite the decision.']",other,other,file_insurance_claim
+Raising a Commitment,"SYM: Click on the arrow at the side of Interaction Record and click on Internal Commitment
+SYM: This will open a new style screen. First match the description to the one that shows on the commitment’s matrix. This can be copied and pasted. In this case we will put Priority Services Register.
+SYM: Select Internal Contact from the Channel/Direction drop down
+SYM: Select Billing Enquiry from the Type of Contact drop down. The status should remain Open.
+SYM: The Categorisation needs to be the same as what is advised on Agent Assist for the commitment type you are raising. In this example we are choosing Move In.
+SYM: Choose Process Move In
+SYM: Choose Move in completed DD set up
+SYM: Click on the calendar icon next to received date
+SYM: This need to be the date you are raising the commitment. In this case the 9th July.
+SYM: If the Responsible group field has not auto populated click on the two boxes.
+SYM: Type in the code csc_tsp in the Search term field.
+SYM: Click Search
+SYM: Double click on the relevant line.
+SYM: Click into two squares on Interaction Centre Agent field
+SYM: Add your last name (agent) into the Last name field - in this case 'Hall'
+SYM: Add your first name (agent) into the First name field - in this case 'Dawn'
+SYM: Click Search and double click on your own CPT - in this case CPT-HAD
+SYM: Under Notes in the box that say’s ‘write note…’ please add a brief note of the conversation and what you have advised the customer.
+SYM: Once notes are added click Create Internal Commitment.
+SYM: You are now on the Internal Commitment page. This page is where you select the team the commitment goes too and the instructions that are needed.
+SYM: Leave the Employee Responsible field blank and click on the 2 boxes at the side of Responsible group
+SYM: In the Search term box type in the relevant code from the Commitments matrix in this case cbs_dasp
+SYM: Click Search
+SYM: Double click on the relevant team you are sending the commitment to.
+SYM: You can now see the Responsible group field is populated. Now scroll down the page.
+SYM: In the General Data section, ensure the description and categories are the same as on the commitments matrix.
+SYM: For this example, choose Category 1 as Social Plan.
+SYM: For this example, choose DWP instruction.
+SYM: Click the clock / calendar icon at the side of Commitment Date
+SYM: Select the correct amount of days / hours the commitment needs to be worked by – in this case 2 working days.
+SYM: In the 'Write note...' section add the instructions you want carrying out in the commitment. When putting notes on the internal commitment. Please use the commitment matrix for the notes. This helps to give clear request on what action needs to be updated.",The customer is calling to raise an internal commitment for a billing enquiry related to a move-in process.,"['Open the Interaction Record and select Internal Commitment', ""Match the description to the commitment's matrix and set Priority Services Register"", 'Select Internal Contact from Channel/Direction and Billing Enquiry from Type of Contact', 'Set categorisation to Move In and choose Process Move In and Move in completed DD set up', 'Set the received date to the current date (e.g., 9th July)', 'Search and select the responsible group using code csc_tsp', 'Enter agent details (last name Hall, first name Dawn) and select CPT-HAD', 'Add a brief note of the conversation and what was advised to the customer', 'Click Create Internal Commitment to proceed to the Internal Commitment page', 'Leave Employee Responsible blank and search for the responsible group using code cbs_dasp', 'Select the relevant team to populate the Responsible group field', 'Ensure description and categories match the commitments matrix, setting Category 1 as Social Plan and DWP instruction', 'Set the commitment date with the required timeframe (e.g., 2 working days)', ""Add instructions in the 'Write note...' section using the commitment matrix for clarity""]",other,other,track_order_status
+Sales U - Closing Conclusion,"SYM: It’s closing time for this module.
+SYM: So, let’s recap all your learnings, move it to the phones.
+SYM: I hope you have learned something new.
+SYM: Throughout the call, you work hard to gain trust, establish credibility, discover needs, and utilize that information to find the right product for that caller’s needs.
+SYM: However, you can’t get the sale if you don’t ask! That’s the importance of closing.
+SYM: We should be asking for the sale immediately after providing the price.
+SYM: This is why a best practice during the discover process is to ask the budget question last, because it is a natural transition to price.
+SYM: By asking the budget question last, you are in a better position to successfully close because you have all your information you need to know to offer the right product based on the customers needs.
+SYM: There are multiple closing techniques you can use.
+SYM: Find the one that works best for your personality and call style.
+SYM: You don’t have to use the same one every time, don’t be afraid to step outside your comfort zone and try something new!
+SYM: Hearing no can and will happen to everyone in a sales role.
+SYM: There is not a closing technique that guarantees everyone will say yes.
+SYM: Remember to catch it, catch it, change it when it comes to hearing no on calls.
+SYM: You will hear more no’s than yes’s and that’s okay.
+SYM: So don’t be afraid to go for no - that means you at least asked for the sale!
+SYM: It’s officially closing time, open all the queues and let you out into those calls!","The transcript is a training module recap on sales closing techniques, not a customer call.","['Step 1: Recognize that this is training material, not a customer issue.', 'Step 2: No action needed as there is no customer problem to resolve.']",other,other,other
+Sales U - Closing Practice 4 - Empathy Close,"SYM: Hello! If you are starting this sym, that means you chose the Empathy Close as the technique you would like to try on your calls. ​ If you wanted to try a different closing technique, now is the time to exit this sym and head to the one you wanted to practice.
+SYM: Here are a few tips for how to navigate throughout this Sym. Click the arrow when you’re ready to continue.​
+SYM: As reviewed earlier, the Empathy Close technique focuses on the customer’s perspective and feelings and leaning into those emotions to show how the product will help them.​
+SYM: Here’s an example of how an empathy close might sound.​
+SYM: I know you’re concerned about having this in place for your loved ones so it will just take a few minutes to get you covered today. ​
+SYM: Remember, we are going to ask for the sale immediately after providing the price.​ This is why a best practice during the discover process is to ask the budget question last to put yourself in a better position to successfully close because you have all your information you need to know to offer the right product based on the customers needs.
+SYM: Here are some more examples of an Empathy Close. ​
+SYM: PRICE. I know you’re concerned about having this in place for your loved ones so it will just take a few minutes to get you covered today. ​
+SYM: PRICE, And I realize it has been difficult to find something that works for you, but I believe this will. It will only take a few more minutes to get you covered today.​
+SYM: Notice that something they have in common is making the sale today.​ They also reference back to something that was discovered about the customer earlier in the call.​
+SYM: These examples are in other people’s words, take a moment to write down how you would word your empathy close.​
+SYM: Again, let's say you’ve completed the discovery process with Sonya and have determined that an $8,000 UCSL policy will best meet her needs.​
+SYM: Take a moment to review the information and write down an Empathy Close you could use for Sonya.​ Remember, you should ask for the sale immediately after providing the price.
+SYM: Click the “I’m Ready!” icon when you are ready to practice your empathy close.​
+TRAINEE: ...
+SYM: Great job practicing your Empathy Close.
+SYM: I realize practicing new techniques can be a challenge, but it takes practice to get comfortable. Great job practicing this technique today, try it out on your next call to close the sale – you got this!​",The transcript is a training simulation for practicing the Empathy Close technique in sales calls.,"['Step 1: Review the Empathy Close technique and examples provided in the transcript.', 'Step 2: Practice writing and delivering an Empathy Close based on the given scenario with Sonya.']",other,other,other
+Sales U - Closing Practice 6 - Urgency Close,"SYM: Hello! If you are starting this sym, that means you chose the Urgency Close as the technique you would like to try on your calls. ​ If you wanted to try a different closing technique, now is the time to exit this sym and head to the one you wanted to practice.​ ​
+SYM: Here are a few tips for how to navigate throughout this Sym. Click the arrow when you’re ready to continue.​
+SYM: As reviewed earlier, the Urgency Close technique creates a sense of immediacy and potential loss if the customer does not purchase today.​
+SYM: Here’s an example of how an urgency close might sound.​
+SYM: When you get this policy today, you’re locking in the rate. Which means you’re getting the best rate from us before you get any older. ​
+SYM: Remember, we are going to ask for the sale immediately after providing the price.​ This is why a best practice during the discover process is to ask the budget question last to put yourself in a better position to successfully close because you have all your information you need to know to offer the right product based on the customers needs.​ ​
+SYM: Here are some more examples of an Urgency Close. ​
+SYM: PRICE, and when you get this policy today, you’re locking in the rate. Which means you’re getting the best rate from us before you get any older. ​
+SYM: PRICE, and if you wait until you get older, you’re just going to have to pay more. You’ll want to do this today so you can lock in this rate. ​
+SYM: PRICE. With your birthday coming up next month, let’s get this taken care of today so you can lock in this rate before you get older!​
+SYM: PRICE. Anything can happen tomorrow, so let’s make sure you and your family are prepared today by getting this policy in place.​
+SYM: Notice that something they have in common is making the sale today.​
+SYM: These examples are in other people’s words, take a moment to write down how you would word your empathy close.​
+SYM: You’ve completed the discovery process with Sonya and have determined that an $8,000 UCSL policy will best meet her needs.​
+SYM: Take a moment to review the information and write down an Urgency Close you could use for Sonya.​ Remember, you should ask for the sale immediately after providing the price.​
+SYM: Click the “I’m Ready!” icon when you are ready to practice your option close.​
+TRAINEE: ...
+SYM: Great job practicing your Urgency Close.
+SYM: You don’t want to miss out on an opportunity to close a sale, so go use the urgency close on your next call - you got this!​","The transcript is a training simulation for using the Urgency Close technique in sales calls, not an actual customer call.","['Step 1: Recognize that this is a training exercise and not a real customer issue.', 'Step 2: No resolution steps are needed as there is no actual customer problem to address.']",other,other,other
+Salesforce Quote Tool,"SYM: Today we’re turning quoting chaos into quoting confidence—because pricing shouldn’t feel like rocket science!
+SYM: Here are a few tips for how to navigate throughout this Sym. Click the arrow when you’re ready to continue.
+SYM: The Quote Tool is a new tab available within a prospect or client record.
+SYM: Quote Parameter fields will auto populate with the available profile information of that record.
+SYM: Let’s go check it out in action in my favorite place, Salesforce!
+SYM: Great job getting a quote for Tim and his granddaughter.
+SYM: What if you have a caller on the line looking for a quote and they don’t have a Salesforce profile?
+SYM: There’s a quote tool for that situation too, using the DSC Quote Tool located at the bottom left of your Salesforce task bar.
+SYM: Let's practice!
+SYM: You’re really getting the hang of this quote tool!
+SYM: I wanted to bring your attention to a few more smart features of the Quote Tool.
+SYM: These features help make it easier for you to ensure you are providing accurate quotes on every call!
+SYM: What did we learn today? Take a moment to review some of the key learnings from this sym.
+SYM: Click the lightbulb when you are ready to continue.
+SYM: Now that you’ve learned the Salesforce Quote Tool, go hit the phones and quote like a pro—fast, fearless, and fabulously accurate!",The transcript is a training session on using the Quote Tool in Salesforce for generating quotes.,"['Access the Quote Tool within a prospect or client record in Salesforce.', 'Use the DSC Quote Tool for callers without a Salesforce profile, located at the bottom left of the Salesforce task bar.']",other,other,track_order_status
+Startek_Compassion- Credit Card Payment. ADV,"SYM: In this simulation, you will assist the customer to update their new card on the account for automatic payment plan.
+TRAINEE: Hello, thank you for calling Compassion. My name is [YOUR NAME]. And how can I help you?
+SYM: Yes, I just got a notice from Compassion that my credit card is expiring. I just wanted to put a new credit card on file.
+TRAINEE: Sure! Well, thank you so much for giving us a call today. Let me help you to set up your new card information onto your account. Let me pull up your account first. May I know your name on the account, please?
+SYM: It's Lisa Turner, and I may need to change my address on my account as well.
+TRAINEE: Definitely, I can also help you with that. So, we can change the address first. Then afterwards we can update your payment information, too.
+SYM: Sure.
+TRAINEE: So, I do have now your account as 124578. I also wanted to thank you for being a blessing to a child.
+SYM: Thanks.
+TRAINEE: So, before we update your payment information, let me help you to change your address. So, what we have here on file is 110 Riverside Coral FL 33071.
+SYM: That is correct, yes.
+TRAINEE: So, may I have then your updated address, please?
+SYM: No, I don't need to. It sounds like it has been updated.
+TRAINEE: Great! So, let's proceed with updating of your payment information. Just give me a few moments here.
+SYM: Okay.
+TRAINEE: I see that for your monthly payment plan, you were set up using your American Express card ending in 5500 and I see that it's about to expire. So, expiration date is December of 2023.
+SYM: Correct.
+TRAINEE: So, you'll be setting up for a new card or a totally different card?
+SYM: Yes. It's a new American Express card with a different card number.
+TRAINEE: Okay, so let's start to set up your new card information.
+SYM: Okay.
+TRAINEE: To setup your new card and also for the safety of it, I'll be transferring you to our secure line where all you have to do is just simply enter the card number over the phone, and again this call will be routed back to me. Would that be, okay?
+SYM: Sure. Thanks.
+TRAINEE: So, I'll be transferring you now.
+SYM: Sure!
+SYM: [Customer enters the new card number over the phone.]
+TRAINEE: Yes, thank you so much. I do have now your American Express card ending in 2005. And can you please confirm the card's expiration date?
+SYM: It is eight of 28.
+TRAINEE: And how does your name appear on this card?
+SYM: Lisa J Turner.
+TRAINEE: Thank you. So, let me set up your new card information for your automatic monthly payment plan. Give me a few moments here.
+SYM: Sure. I believe they have already drafted out for this month, correct?
+TRAINEE: Yes, that is correct. It was drafted on December 19.
+SYM: Okay.
+TRAINEE: Thank you so much for patiently waiting, Miss Turner. I have set up your new card information for your automatic monthly payment which would be starting from next month. The date is set for every 19th day of each month.
+SYM: Perfect!
+TRAINEE: Thank you for your time calling us. And was there anything else that I can help you for today?
+SYM: No, that's it. I appreciate that and thank you.
+TRAINEE: You're welcome, Miss Turner. You have a great day!
+SYM: You as well. Bye!
+SYM: This concludes your simulation.",The customer called to update their new credit card on file for their automatic payment plan after receiving a notice about their expiring card.,"[""Verify the customer's account details and confirm the current address."", 'Transfer the customer to a secure line to enter the new card number.', 'Confirm the new card details including expiration date and name on the card.', 'Set up the new card for the automatic monthly payment plan starting from the next month.']",update_payment_method,update_payment_method,update_payment_method
+Startek_Compassion- Credit Card Payment. BEG,"SYM: In this simulation, you will assist the customer to update their new card on the account for automatic payment plan.
+TRAINEE: Hello, thank you for calling Compassion. My name is [YOUR NAME]. And how can I help you?
+SYM: Yes, I just got a notice from Compassion that my credit card is expiring. I just wanted to put a new credit card on file.
+TRAINEE: Sure! Well, thank you so much for giving us a call today. Let me help you to set up your new card information onto your account. Let me pull up your account first. May I know your name on the account, please?
+SYM: It's Lisa Turner, and I may need to change my address on my account as well.
+TRAINEE: Definitely, I can also help you with that. So, we can change the address first. Then afterwards we can update your payment information, too.
+SYM: Sure.
+TRAINEE: So, I do have now your account as 124578. I also wanted to thank you for being a blessing to a child.
+SYM: Thanks.
+TRAINEE: So, before we update your payment information, let me help you to change your address. So, what we have here on file is 110 Riverside Coral FL 33071.
+SYM: That is correct, yes.
+TRAINEE: So, may I have then your updated address, please?
+SYM: No, I don't need to. It sounds like it has been updated.
+TRAINEE: Great! So, let's proceed with updating of your payment information. Just give me a few moments here.
+SYM: Okay.
+TRAINEE: I see that for your monthly payment plan, you were set up using your American Express card ending in 5500 and I see that it's about to expire. So, expiration date is December of 2023.
+SYM: Correct.
+TRAINEE: So, you'll be setting up for a new card or a totally different card?
+SYM: Yes. It's a new American Express card with a different card number.
+TRAINEE: Okay, so let's start to set up your new card information.
+SYM: Okay.
+TRAINEE: To setup your new card and also for the safety of it, I'll be transferring you to our secure line where all you have to do is just simply enter the card number over the phone, and again this call will be routed back to me. Would that be, okay?
+SYM: Sure. Thanks.
+TRAINEE: So, I'll be transferring you now.
+SYM: Sure!
+SYM: [Customer enters the new card number over the phone.]
+TRAINEE: Yes, thank you so much. I do have now your American Express card ending in 2005. And can you please confirm the card's expiration date?
+SYM: It is eight of 28.
+TRAINEE: And how does your name appear on this card?
+SYM: Lisa J Turner.
+TRAINEE: Thank you. So, let me set up your new card information for your automatic monthly payment plan. Give me a few moments here.
+SYM: Sure. I believe they have already drafted out for this month, correct?
+TRAINEE: Yes, that is correct. It was drafted on December 19.
+SYM: Okay.
+TRAINEE: Thank you so much for patiently waiting, Miss Turner. I have set up your new card information for your automatic monthly payment which would be starting from next month. The date is set for every 19th day of each month.
+SYM: Perfect!
+TRAINEE: Thank you for your time calling us. And was there anything else that I can help you for today?
+SYM: No, that's it. I appreciate that and thank you.
+TRAINEE: You're welcome, Miss Turner. You have a great day!
+SYM: You as well. Bye!
+SYM: This concludes your simulation.",The customer called to update their new credit card on file for automatic payments after receiving a notice about their expiring card.,"[""Verify the customer's account details and confirm the current address."", 'Transfer the customer to a secure line to enter the new card number.', ""Confirm the new card's expiration date and the name on the card."", 'Set up the new card for automatic monthly payments starting from the next billing cycle.']",update_payment_method,update_payment_method,update_payment_method
+Startek_Compassion- Gift Donation. BEG,"SYM: In this simulation, you will assist the customer with setting up of automated gift for the child.
+TRAINEE: Hello, good afternoon. Thank you for calling Compassion. My name is [YOUR NAME]. How can I assist you today?
+SYM: Hi! I got a letter saying that my child is turning 16 today, and I thought I had to set up as an automated birthday gift. Every year he gets a birthday gift.
+TRAINEE: Thank you for being a sponsor and wanting to send a gift to your sponsored child. It's a wonderful way to show your care and support.
+SYM: Thank you. Do you want my account number or anything?
+TRAINEE: Yeah. May I know your sponsor number if you have it on hand?
+SYM: Yes, the number is X 1 Y 2 Z 3.
+TRAINEE: Thank you. Can you verify the first and last name on the account.
+SYM: Kim Reeves.
+TRAINEE: Alright, I have pulled up your account. And first, I would like to thank you for being part of Compassion since 2016 and for being a blessing to your two children. You do have Jim from Peru and Michael, that is from Rwanda. And with regards to the birthday gift, it looks like you haven’t setup a birthday gift here on the account. The only thing that you have set up is the automatic withdrawal for your monthly sponsorship for the birthday gift.
+SYM: Okay.
+TRAINEE: Regrettably, we don't have it here on the account. That means you didn't send a birthday gift to your child because you don't have any automatic set up of birthday gifts.
+SYM: Well, I thought it was already set up. So, if you could set it up today as an automatic gift and I can make a payment today on it. You need a card?
+TRAINEE: Let me check it here on the account. You do have here a visa card ending in 5252. Is it the one that you are using?
+SYM: Yeah, that one's good to use. Can you put it for $40? Automated birthday gift?
+TRAINEE: Yeah. Thank you so much for that. That would be $40 annually. And since we didn't receive one for today, we will be making one time birthday gift today. And then the next one would be on November 17, 2024, right?
+SYM: To do one today and the one in November?
+TRAINEE: Yes. Because it takes two to three months before it will be reflected on the account or it will be given to the child. Is it only for your child in Peru or are we going to set up for the one that is from Rwanda, for a month?
+SYM: I thought you said that one was already on automated.
+TRAINEE: It was on the automated, but you already sent one on last May 2023. You also sent one-time payment of a one-time birthday gift, but it wasn't setup on the automated payment.
+SYM: Let me just wait on that right now. When is his birthday again?
+TRAINEE: Yeah, it looks like your child's birthday, Michael is in July. Do you want to set it up today?
+SYM: Yeah, I'll do that a little bit later. I just wanted to get this one done today because I got an email that today was his birthday. I missed it. How long is it going to take for the area there to get this for him?
+TRAINEE: Yeah, it takes two to three months before they will be receiving the gift that you have sent to them.
+SYM: All right.
+TRAINEE: I'll just submit it here. So that would be the $40 pretty gift or annual pretty gift into the account.
+SYM: All right. And you have it set up as automated now, right?
+TRAINEE: Yes, that is correct.
+SYM: All right, thank you.
+TRAINEE: Everything is set now. Is there anything else I could help you with?
+SYM: No, that's it. I appreciate it.
+TRAINEE: Thank you for your time. Have a nice day.
+SYM: You too. Bye!
+SYM: This concludes your simulation.",The customer called to set up an automated birthday gift for their sponsored child after realizing it wasn't already configured.,"[""Verify the customer's account and sponsored child details."", ""Set up an automated annual birthday gift of $40 using the customer's existing payment method."", 'Process a one-time birthday gift for the current date to cover the missed gift.', 'Confirm the automated setup and provide the next gift date.']",other,other,other
+Startek_Telco_Visual_BEG_Demo ,"TRAINEE: Thank you for calling Xfinity Mobile, we appreciate your business. This is (YOUR NAME). May I have your name please?
+SYM: My name is Danerra Lamburth.
+TRAINEE: What a beautiful name! Is it okay if I call you by your first name?
+SYM: Sure, that's fine.
+TRAINEE: Awesome! How are you doing today, Danerra?
+SYM: I'm doing fine, thank you. How about yourself?
+TRAINEE: I'm glad to hear that. I'm doing great as well. Thank you for asking. Tell me, how may I help you today?
+SYM: I received the SIM card the other day, and as of today, it is still not activated.
+TRAINEE: Thank you for clarifying that for me! I'd be happy to assist you with activating your new SIM card. To begin the process, I need to access your account first. I'll be asking you a few questions for security purposes; would that be fine?
+SYM: Sure!
+TRAINEE: Great! Can you please provide me with your billing address on file?
+SYM: 6000 Hollister St, Apartment 1 8 1 6, Houston, Texas 7 7 0 4 0.
+TRAINEE: How about the last four digits of the credit or debit card on file?
+SYM: 4 9 8 0
+TRAINEE: Thank you, Danerra, for providing all the necessary information to access your account. Your cooperation is appreciated. I was able to pull up your account, and I can see that you have two iPhone devices. May I know the mobile number of the device on which you would like to activate the new SIM card?
+SYM: (560) 346-9876
+TRAINEE: To ensure that I got the correct number, which is (560) 346-9876, is that correct?
+SYM: Yes, that's correct.
+TRAINEE: Nice! How about the ICCID number of the new SIM card?
+SYM: Where can I find that?
+TRAINEE: The ICCID for your Xfinity Mobile SIM card can typically be found printed on the SIM card itself or on the SIM card packaging. It is a unique 20-digit number that identifies your SIM card. If you're unable to locate the ICCID on the SIM card or packaging, you can find it in the settings of your phone once it's inserted. On your iPhone, go to Settings > General > About. The entry titled ICCID is your SIM card number.
+SYM: I found it! The number is too small on the card. That is 8 9 1 4 8 0 0 0 0 0 9 8 7 6 5 4 3 2 1 0.
+TRAINEE: To confirm, it is 89148000009876543210, am I right?
+SYM: Yes.
+TRAINEE: Thank you for confirming it. Let me go ahead and update the new SIM card on your phone. This may take a few minutes to complete the process, and I'll be asking you to reset the network settings of your phone afterwards.
+SYM: Sure. Take your time.
+TRAINEE: Okay, here's what I found out, Danerra. Your SIM card is not activated because of the pending order on the account. And this needs to be completed before your SIM card can be activated.
+SYM: It's been three days; I am confused as to why my phone is still not working, and is this the only reason why?
+TRAINEE: So please give me a moment while I am working on it. I will let you know once the pending order is completed and to activate the SIM card.
+SYM: Sure, take your time.
+TRAINEE: All right, Danerra. I was able to activate and update your new SIM card. Kindly insert the new SIM card and reset the network settings on your phone. Before that, I would like to set your expectation that any saved Wi-Fi networks and passwords will be removed and all paired devices will be unpaired. So, after you reset the network settings, please set up your phone so everything will be connected again. Just go to Settings > General > Reset. Then select ""Reset Network Settings"" and confirm your choice when prompted. After the reset, your phone will restart. Please test the call functionality afterwards.
+SYM: I already inserted the SIM card and reset the network settings. My phone is restarting now.
+TRAINEE: Once your phone is back on, please check the network connectivity and let me know if everything is working as expected.
+SYM: Sure, I will.
+TRAINEE: While your phone is restarting, I'd like to express my gratitude for being a valued [Silver, Gold, Platinum, or Premium] customer with Xfinity Rewards. As a loyal customer, you have access to exciting rewards and exclusive benefits. The longer you stay with us, the more rewards you can enjoy. You can conveniently access your rewards anytime through the Xfinity app or by visiting www.xfinity.com/rewards.
+SYM: Thank you.
+TRAINEE: Thank you, Danerra! Your loyalty means a lot to us. Don't forget to make the most of the rewards we offer. We have a range of exclusive benefits and perks specifically tailored for customers like you. If you ever have any questions or need assistance in maximizing your rewards, feel free to ask. We're here to help!
+SYM: I appreciate you sharing that. And I just tested the network, and it's working perfectly now! Thank you for your assistance.
+TRAINEE: You're most welcome, Danerra. Is there anything else I can assist you with?
+SYM: No, that was all I needed. I really appreciate your prompt and efficient support.
+TRAINEE: It's a collaboration with you! Just for a quick recap, you contacted Xfinity today to activate your new SIM card, which is now working as a replacement for the number ending in 9876. Then I asked you to insert the SIM card and reset the network settings. You confirmed that everything is working after testing it.
+SYM: Thank you so much!
+TRAINEE: It's been a pleasure taking care of your needs today, and I appreciate your collaboration and patience while we resolved your issue. Thank you, and have a great rest of your day!
+SYM: Thanks, you too!
+SYM: This concludes your simulation.",The customer called because their new SIM card had not activated after three days.,"['Verify account security details and access the account.', 'Identify the pending order blocking activation and complete it.', 'Update the new SIM card on the phone and guide the customer to reset network settings.', 'Test network connectivity to confirm activation is successful.']",update_payment_method,other,track_order_status
+Startek_Walmart - Demo - 2025,"TRAINEE: Thank you for calling Walmart Customer Relations, my name is [Your Name]. With whom I have the pleasure to speak with?
+SYM: Hi, my name is John Johnson.
+TRAINEE: Nice to meet you John, how are you today?
+SYM: Fine and you?
+TRAINEE: I'm fine as well, thanks for asking. Let me know John, how can I assist you today?
+SYM: Yes, I purchased a car seat stroller combo for my daughter-in-law, and it's not the right one, and I misplaced the receipt.
+SYM: I went to the store and they told me to call you guys that you can help me locate it because I paid for cash with it.
+TRAINEE: Thanks John, and do you know the store ZIP code or the store number you made the purchase on?
+SYM: Yes, the store number is 1 5 8 4.
+TRAINEE: Just to confirm I have the right store, is this the Super Center on Rainbow 3615?
+SYM: Correct, that is the one.
+TRAINEE: Thanks John, and could you please tell me if you remember the day of the purchase?
+SYM: I do know that I purchased it in February. I'm not sure the exact date, but I believe it was during the first two weeks in February, if I'm not mistaken.
+TRAINEE: Okay, thank you John. So, you told me it was with cash, do you remember how much was the total amount of the receipt?
+SYM: The car seat stroller combo was around $199. So, I want to say I know I didn't spend no more than 350 so maybe search 250 to 350 dollars.
+TRAINEE: Okay, so let me search for the receipt information right now based on the description provided. Allow a moment.
+TRAINEE: I can see I found one that matches your description. Was the item you are lookng for the ""Sonar Switch 6 in 1 Modular Stroller Travel Sytems""?
+SYM: That is correct, that is the one. How much was that one?
+TRAINEE: The car seat combo was $159.
+SYM: Great, that is the one. Could you email the receipt to me please?
+TRAINEE: Of course John, could you please give me your email address so I can share it with you?
+SYM: Yes, my email address is test@test.com
+TRAINEE: Thanks John, so let me go ahead and share the receipt with you via email. Just a moment please.
+TRAINEE: So, the email was sent John, and you should be receiving it within the next 24 hours.
+SYM: Oh, I got the email, let me check. Okay, seems this is the one I was looking for, appreciate the help.
+TRAINEE: No problem John, it was a pleasure assisting you today. Is there anything else I could do for you today?
+SYM: No, that was all, thanks.
+TRAINEE: Alright, no problem. Before you disconnect, you’ll be transferred to a quick survey where you can evaluate the support I provided today. I’d really appreciate your feedback.
+SYM: I definitely will, thanks. Have a good day.
+TRAINEE: Thanks, you too John, thanks for calling Walmart Customer Relations, have a good day.
+SYM: This concludes your simulation.",The customer needs a receipt for a car seat stroller combo purchased with cash to return or exchange it.,"['Verify store details and purchase timeframe', 'Search for the receipt using item description and price range', 'Confirm the found receipt matches the item', 'Email the receipt to the customer']",other,other,update_payment_method
+SymTrain - Overview,"SYM: Welcome to SymTrain! I’m Coach Sym and I’m here to help you get familiar with using the DSC training resource, SymTrain.
+SYM: Let’s start by reviewing some tips for how to navigate throughout a Sym.
+SYM: When you see a box outlined in blue, that is something in the sym you need to click in order to continue.
+SYM: A green box indicates a text field. You will need to type a response in the box. Use your mouse to click inside the box, type the required text, then press enter on your keyboard while still in the text box to submit your response.
+SYM: Let’s practice! Type your favorite color in the box that appears.
+SYM: Thanks for sharing!
+SYM: The final interaction portion you will encounter in syms is speaking.
+SYM: If a sym requires a verbal response, a microphone will appear. Say your answer out loud, then click the next button to continue.
+SYM: Let’s practice! When the microphone icon appears, read the dialogue that appears in the bottom of your screen, then click next.
+TRAINEE: Hello, my name is (your first name).
+SYM: Great job!
+SYM: Let’s continue with how to navigate SymTrain.
+SYM: Your SymTrain Home page will show your Overall Stats on the syms you have completed.
+SYM: You are also able to make Accessibility Adjustments.
+SYM: Here are some of the options available. After this sym, feel free to check out how the different settings work and toggle on any settings that are beneficial to you.
+SYM: SymTrain also has a built in Support feature if you need help at any time.
+SYM: You have the option to message SymTrain for support, provide feedback, or use the SymTrain AI_Help for self-troubleshooting.
+SYM: Since you are taking this sym, you have obviously learned how to launch a sym – way to go!
+SYM: However, you might not have realized there is more than one way to launch a sym.
+SYM: The first is click the play icon next to any of the syms shown on your Home page.
+SYM: The second is from your My Exercises tab, let’s head there now.
+SYM: Here is where you will find all syms that have been assigned to you as well as your progress.
+SYM: As you continue your journey in the DSC, you may have more than 10 rows of assignments and will need to expand your rows per page or view the other pages to find assignments.
+SYM: If you see a stacked icon, that indicates that is a sym module, which means it contains more than one sym. Click the icon to expand and see the included syms.
+SYM: On the right, you can see what syms you have already completed in that module.
+SYM: To launch a sym from your exercises, you can click on the play icon on the left of the sym or module.
+SYM: Or you can click on an individual sym from the module list to launch that sym. Let’s practice that.
+SYM: As you already saw, you can select if you would like to proceed with completing a Practice or Test version of the sym.
+SYM: You can also select a different sym to launch from the module list by clicking the play icon on the sym tile.
+SYM: Some syms, like the one you are taking right now, require verbal responses. It is important to make sure the correct microphone setting is selected so SymTrain can hear you and record your response.
+SYM: Before starting your first sym of the day, you should check your hardware.
+SYM: Using your company provided headset is the best practice to ensure that SymTrain can pick up your voice clearly. To use the headset while in a sym, make sure it is plugged into your laptop and not your phone.
+SYM: While you can select your laptop’s built in microphone as an option, depending on your desk setup that microphone might be too far away to pick up your voice clearly.
+SYM: Let’s practice what this would look like.
+SYM: For the purposes of this sym, we will give you a prompt to speak into the microphone.
+SYM: When you a ready, click Start Recording for a prompt to appear at the bottom of the screen.
+SYM: Say the prompt out loud, then click the Next icon that appears to continue.
+TRAINEE: Mic check. Test one, two, three.
+SYM: Great job! After recording, there will be a playback button that will allow you to hear how you sound to ensure quality recording throughout any sym that day.
+SYM: That was just a simulated practice. Be sure to check this feature out for real before your next sym.
+SYM: The final area to explore is the Playback. We will review that next sym.
+SYM: What did we learn today? Take a moment to review some of the key learnings from this sym.
+SYM: Click the lightbulb when you are ready to continue.
+SYM: Fantastic job completing your first sym! Let’s stay on track and head over to the next one where we learn how to view your sym playback.",The customer is participating in a training session to learn how to use the SymTrain platform and its features.,"['Follow the on-screen instructions to navigate through the sym, including clicking blue boxes, typing in green text fields, and using the microphone for verbal responses.', 'Access the SymTrain Home page to view overall stats and make accessibility adjustments as needed.', 'Launch syms from the Home page or My Exercises tab, and select Practice or Test versions as required.', 'Ensure proper hardware setup by using a company-provided headset plugged into the laptop and checking microphone settings before starting a sym.', 'Utilize the Support feature for help, feedback, or self-troubleshooting with SymTrain AI_Help.']",other,other,other
+SymTrain - Sym Playback,"SYM: Welcome back! Congratulations on completing your first sym a moment ago. Now let’s see how you did.
+SYM: Before we get started, I want to draw your attention to the sym time length on the opening screen of each sym.
+SYM: This lets you know on average how long it should take to complete the sym.
+SYM: Take a moment to look for the “Time Elapsed” located at the top of this sym.
+SYM: As you work through syms, be sure to keep an eye on your pace so you can finish within the allotted time for the assignment.
+SYM: Let’s proceed full steam ahead!
+SYM: Reminder, here are some best practices for navigating throughout a sym. Click the arrow when you are ready to continue.
+SYM: After completing a sym, you will be directed to a screen that looks like this.
+SYM: From here you can already see your Completion Time, Keyword Score, and Click Score.
+SYM: To view more details on your sym score, click View Playback.
+SYM: This playback view provides more insight on your performance.
+SYM: You can see if you completed the sym in Practice or Test Mode, the day and time completed, and you can even click re-attempt and do it again from here.
+SYM: Here is that completion time again.
+SYM: Completion time is important because if it is taking you longer to navigate the conversation and screens, it can be an indication that you just need to practice the sym more to learn the process better.
+SYM: Let’s break down the other stats on the screen, starting with Keyword Score.
+SYM: Keywords are structure words in the conversation that are good word choices or can even be compliance words that must be said. If the sym has no agent lines, you will not have a keyword score.
+SYM: The DSC is not a scripted environment. The key words chosen throughout the syms will be ones that everyone should say.
+SYM: For example, everyone should state “Mutual of Omaha” in your call introduction.
+SYM: The first number is your keyword score, and the second is the possible score.
+SYM: In that last sym, I got 3 out of 4 keywords correct.
+SYM: To see which one I missed, I can scroll down to find it in the playback.
+SYM: Words highlighted green indicate you got the keyword correct, while red indicates it was missed.
+SYM: Here I can see that I missed the first word, hello.
+SYM: You can click the Trainee Response to jump to that part of the recording, then click Play to listen.
+SYM: After listening to my playback, I could here that I said hello, but the microphone didn’t start picking up right away so the greeting was cut off.
+SYM: Technology is not perfect. There could also be times where it thought you said a different word. For example, application and occupation can sound similar to a computer.
+SYM: That is why the training team and your supervisors review playback on lower scoring syms.
+SYM: This allows them to see if it was a system error or a coaching opportunity.
+SYM: Scroll back to the top to look at the rest of the sym score.
+SYM: Let’s review Click Score next.
+SYM: Click Score is scoring where on the visual components of the sym you navigated and clicked through during the process. Click score will only be in visual syms.
+SYM: The first number is your click score, and the second is the possible score.
+SYM: In that last sym, I got 19 out of 19 clicks correct. Way to go me! That is a good indicator that I understand the process in the sym.
+SYM: Confidence, Concentration and Energy are your sentiment scores.
+SYM: These scores are calculated by the level of intent you deliver the script line in the areas of confidence, concentration and energy.
+SYM: These are not calculated on your voice or tone, but on how confident your level of intent is, your focus or concentration level, and your pace or energy level.
+SYM: The sentiment score is calculated for the entire sym, not one part or another.
+SYM: My Energy score was Medium. I can click Insights to view more.
+SYM: This is where I can find insight on how to improve that score if I were to take it again, or helpful advice for future syms.
+SYM: Next let’s look at the Sym Accuracy Score.
+SYM: This measures how well your response matched the intent of what the customer was asking in the customer script line.
+SYM: SymTrain is still working on improvements to the Sym Accuracy score, and this is being monitored by the training team at the moment.
+SYM: The final stat to look at is the Sym Score.
+SYM: This will equal a combined score of the different scoring options for that sym. If this is a beginner sym your score should be in the 80% range.
+SYM: Again, technology is not perfect. That is why the training team and supervisors will take a look at those lower scores to see if it was a system error or a coaching opportunity for improvement.
+SYM: Now that we’ve reviewed how to look at detailed playback after completing a sym, let’s head to the Playback page.
+SYM: The Playback page provides an overview of your sym performance for all your completed syms.
+SYM: To view the detailed playback for any sym, simply click the Actions icon.
+SYM: This concludes the simulation.
+SYM: What did we learn today? Take a moment to review some of the key learnings from this sym.
+SYM: Click the lightbulb when you are ready to continue.
+SYM: Fantastic job completing SymTrain 1 0 1! You are ready to continue your learning journey and start taking syms! Bon voyage!",The customer is receiving training on how to interpret their performance scores and playback details after completing a simulation.,"['Review the completion time and compare it to the allotted time for the assignment.', 'Check the keyword score and playback to identify any missed keywords or system errors.', 'Examine the click score to ensure proper navigation through visual components.', 'Analyze sentiment scores (confidence, concentration, energy) and use insights for improvement.', 'Look at the Sym Accuracy Score and overall Sym Score, noting that lower scores may be reviewed by the training team for errors or coaching opportunities.']",other,other,track_order_status
+TRAINEE STARTS HERE_ How did you do_ View your Playback!  ,"SYM: Congratulations on running your first sym. Now lets see how you did. From here you can already see your Completion Time, Keyword and Click score.
+SYM: Keywords are structure words in the the conversation that are good word choices or can even be compliance words that must be said. If the sym has no agent lines you will not have a keyword score. Click score is scoring where on the visual components of the sym you navigated and clicked through during the process. Click score will only be in visual syms.
+SYM: All of the playbacks for every sym you execute will always be in Playback on the left side of the screen, last tab, with the headphone icon.
+SYM: For now, Click the Green View Playback button to see more detail on how you did.
+SYM: Starting at the top left, you can see every attempt you have completed of this sym, and the playback for each. This allows you to see how you are improving with each attempt.
+SYM: You can also see if you completed it in Practice or Test Mode, the day and time completed, and you can even click re-attempt and do it again.
+SYM: Next you will see your Sym Accuracy Score. This measures how well your response matched the intent of what the customer was asking in the customer script line. If this is a beginner sym your score should be in the 90% range, because you would have said the script line pretty close to word for word, to learn the intent. In Intermediate and Advanced Syms, when you are formulating your own words, this score might go down, but you want to aim for the 80-90% range, so that your intent is matching the need of the customer as closely as possible. If your sym has no agent lines you will not have a sym accuracy score.
+SYM: Completion time is important because if it is taking you longer to navigate the conversation and screens, it can be an indication that you just need to practice the beginner sym more to learn the process better. It won't take long before you will know exactly what to do. Keep practicing.
+SYM: The first number in the keyword score is your score, and the second is the possible score. Keywords are structure words that are good word choices you will want to say, or they can even be compliance words you must say. Keywords guide you to the best and fastest way to customer resolution and satisfaction.
+SYM: The first number in the click score is your score, and the second is the possible score. Click scores are the places on the screens where you clicked, and it scored you if you clicked in the correct place.
+SYM: The Sym Score will equal a combined score of the different scoring options. If a sym has all three, Sym Accuracy, Keyword and Click Score, the sym score will be total of all, as one sym score. If a sym has two or only one of these scoring options, the sym score will equal the total of only the scoring options used in that sym.
+SYM: Text Field Keyword score will appear if the sym was created with keywords in the Text Fields that can be put into visual syms. A best practice is to always enter text into those fields exactly as directed because you never know if that text will be a keyword or not until you finish.
+SYM: Confidence, Concentration and Energy are your sentiment scores. These scores are calculated by the level of intent you deliver the script line in the areas of confidence, concentration and energy. These are not calculated on your voice or tone, but on how confident your level of intent is, how your focus or concentration level and how your pace or energy level of intent is. The sentiment score is calculated for the entire sym, not one part or another.
+SYM: The measurement for sentiment scores will be High, Medium or Low, and you can click the insights to learn more about what you did well, and what you can do to improve.
+SYM: As a reminder you will not receive a sentiment score in your practice attempts, only in your test attempts, and if your sym has no agent lines, you will not have a sentiment score.
+SYM: The playback also allows you to listen to a recording of you executing the sym. You can click a script line below and the recording will skip to that part of the recording if you wanted to only listen to a certain part.
+SYM: If you see a dot in the recording like this, this is the Text Field Key Word Score we just talked about. This will show you if you got that word or if you missed it. As you can see I missed it because it is red, and it gave me the correct response.
+SYM: The bottom part of the playback page is the actual script. The highlighted words are the keywords. If they are green I got them. If they are red I missed them. You will also notice the KS and SA and then a number score, like 3/4 and a percent, such as 86%. These are your Keyword Scores and Sym Accuracy scores by script line. The first number in the keyword score is your score and the second is the possible score. The Sym Accuracy score tells you how you did in this line with intent compared to the customer script line you were responding to.
+SYM: This gives you the ability to see exactly in the sym where you can improve on keywords and sym accuracy. The total Sym Accuracy and Keyword scores at the top are a total of these by script line totals.
+SYM: And finally you will always see the scripted line with the keywords you said or did not say vs what you said in response. The default is to show both, but you can toggle that off if you want to just see the scripted line and the keywords you said or did not say.
+SYM: Great Job! This concludes your simulation.",The customer is seeking guidance on understanding and improving their performance in a simulation exercise.,"['Review the playback to analyze completion time, keyword, and click scores.', 'Check sym accuracy scores to assess intent matching with customer script lines.', 'Examine sentiment scores for confidence, concentration, and energy levels.', 'Identify missed keywords and sym accuracy issues in the script lines for targeted improvement.', 'Practice repeatedly to enhance navigation, keyword usage, and intent delivery.']",other,other,other
+UCSL eApp – State Specifics,"SYM: In this sym, we will review how the UCSL application varies based on state.
+SYM: Reminder that we can not C O P whole life applications for Connecticut or Montana.
+SYM: New York has its own application for our Guaranteed Whole Life policy. We’ll go into detail on New York later.
+SYM: The states in red on the map have some different verbatim messages that will appear in the e App.
+SYM: Remember that these boxes are verbatim statements.
+SYM: You should not try to memorize these, as they may change for each state.
+SYM: Always be sure to read what's on your screen word for word.
+SYM: One such example is with California, the final application verbatim has an additional paragraph regarding fraud.
+SYM: This allows us to be compliant with California law. The fraud statement is also provided in the policy documents.
+SYM: Again, this is why you should not memorize verbatims. Simply follow the application.
+SYM: Another California law requires we obtain an email address from our California elders (which is age 65 or older) so we can send them pertinent disclosures before the application is completed.
+SYM: To comply with the California law, there is a verbatim early in the application regarding consent to electronic delivery and e-signature.
+SYM: The verbatim and email address field is mandatory, and the e-app will prevent you from continuing the application if you do not enter in a valid customer email address.
+SYM: Once you have entered the email address in the box you must press the Send button. If you don’t press this button, the e-app will prevent you from continuing the application.
+SYM: If the email fails to send, the Send button will turn red and will say Fail.
+SYM: The e-app will prevent you from moving forward until an email has successfully been sent.
+SYM: If the email successfully sends, the Send button will turn green and will say Sent.
+SYM: Once you have received the green Sent message, you need to ask the customer to verbally confirm they received the email.
+SYM: This is what the email that the customer receives looks like.
+SYM: Here’s another question that will only appear during the application in certain states.
+SYM: These states have state special questions and verbiage that is required to be read about accessing PDF files via the internet and providing their consent to receive electronic documents.
+SYM: The state requires we review this electronic consent.
+SYM: We're asking if they can access the internet in any shape or form.
+SYM: If they say no, you can clarify by asking if they have access to the internet (smart phone, library, etc.).
+SYM: If they still answer No, you will need to explain to the applicant that if they are not able to access the internet, or do not provide their consent, you will not be able to take their application over the phone and it will need to be mailed to them. This may delay the processing time and the effective date of their policy.
+SYM: Let’s practice a state specific scenario! Click the arrow when you are ready to begin.
+TRAINEE: Have you received an application packet?
+SYM: No.
+TRAINEE: Are you able to open, view and save P D F files via the internet?
+SYM: No.
+TRAINEE: Do you have access to the internet by using a smart phone or going to the library?
+SYM: Oh, yes. I can do that.
+TRAINEE: I am required to obtain your consent for the delivery of electronic documents to you whether through the internet, email, web, text, instant message, digital media or the like. Your consent applies to all documents Mutual of Omaha may be required to deliver to you in writing. Any document provided to you electronically may be provided in paper upon your request. You may withdraw your consent at any time. If you withdraw your consent, I will not be able to complete your application over the phone and I will need to mail you a paper application. You may withdraw your consent, update your contact information or obtain a paper copy of any document for no charge, by contacting (800) 775-6000. You will need access to a computer or other device which provides internet access or email, as well as the ability to open, view and save a PDF, text or html file.
+TRAINEE: Do I have your consent to provide you with the necessary documents electronically?
+SYM: Yes
+TRAINEE: Disclosures are made available to you at the following website: http://www.mutualofomaha.com/wholelifedocuments
+SYM: Great job practicing one of those state specific items in the e App.
+SYM: What did we learn today? Take a moment to review some of the key learnings from this sym.
+SYM: Click the lightbulb when you are ready to continue.
+SYM: Understanding that the e App will vary by state ensures compliance with state-specific rules and regulations, helping us navigate the process accurately and effectively.",The customer is inquiring about state-specific variations in the UCSL application process and compliance requirements.,"['Review state-specific verbatim messages and application differences in the e-App.', 'Ensure compliance with state laws, such as obtaining email consent for California elders and handling electronic document consent in applicable states.']",other,other,other
+United Flight Change,"SYM: You were about to begin a simulation Please click the United logo to begin
+TRAINEE: Good morning Mrs. McCann, I see you are calling about confirmation number F7SBF8. Is that correct?
+SYM: Yes, I am I wanted to review my options to take a later flight
+TRAINEE: OK, let me check your options.
+TRAINEE: Based on the Basic Economy fare, you can not make changes to your reservation.
+SYM: Yes, I understand I can't make any changes to my ticket, but I'm booked at 1:00 o'clock PM and I need to leave on the 5:50 PM flight instead What am I on? Flight instead What are my options?
+TRAINEE: That's a good question, let's check.
+TRAINEE: Since there is a $200 change fee plus the difference in fare let me look what booking a new flight from Chicago O'Hare to Atlanta as an option for you.
+SYM: OK, great if it's less than $200, that may be a great idea
+TRAINEE: Wow, Mrs. McCann I found the flight you are looking for at 5:50pm from Chicago O'Hare to Atlanta for $106 plus a $25 non-refundable booking fee. Would you like me to book that for you?
+SYM: That's great, let me check and see if that helps and I can book it online
+TRAINEE: No problem. Thank you for calling United Airlines and make it a great day.
+SYM: This completes the simulation",The customer wants to change her flight from 1:00 PM to 5:50 PM due to a scheduling conflict.,"['Check the reservation details and fare rules to confirm change restrictions.', 'Search for available flights at the desired time and calculate any fees or fare differences.', 'Offer the new flight option and assist with booking if the customer agrees.']",other,other,other
+Zinus Knowledge Check 6 Version 2,"SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
+SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
+SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
+SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
+SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
+SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
+SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
+SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
+SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to proceed to the next test.
+SYM: Complete the missing information. For multiple information, simply press space button to add the next one. Press enter after inputting the details to end the test..",The customer needs guidance on completing missing information in a test or form.,"['Step 1: Press the space button to add each piece of missing information.', 'Step 2: Press enter after inputting all details to proceed or end the test.']",other,other,other
